@@ -47,49 +47,6 @@
 
                   |image1|
 
-               .. container:: author-promo clearfix
-
-                  .. container:: author-promo-row
-
-                     .. container:: byline
-
-                        |HackerBoxes|
-                        |image2|
-                        By
-                        `HackerBoxes </member/HackerBoxes/>`__\ `HackerBoxes <http://www.hackerboxes.com/>`__
-                        Follow
-
-                  .. container:: recent-ibles promoted-content clearfix
-
-                     `More by the author: </member/HackerBoxes/>`__
-
-                     .. container::
-                     promoted-items list-unstyled pull-right
-
-                        .. container::
-                        promoted-item-thumbnail thumbnail instructable-thumbnail
-
-                           .. container:: image-wrapper
-
-                              |HackerBox 0108: Newstalgia|
-                              |image3|
-
-                        .. container::
-                        promoted-item-thumbnail thumbnail instructable-thumbnail
-
-                           .. container:: image-wrapper
-
-                              |HackerBox 0107: Dock|
-                              |image4|
-
-                        .. container::
-                        promoted-item-thumbnail thumbnail instructable-thumbnail
-
-                           .. container:: image-wrapper
-
-                              |HackerBox 0106: Epoch|
-                              |image5|
-
                .. container:: step-body
 
                   The HackerBox Basics Workshop provides an enlightening
@@ -100,22 +57,105 @@
                   connections. The HackerBox Basics Workshop is perfect
                   for self-study or classroom use in schools, business,
                   scouts, makerspaces, or other training scenarios.
-                  Accordingly, the workshop is `available for
-                  pu <https://hackerboxes.com/products/basics-workshop>`__
+                  Accordingly, the workshop is `available for purchase
+                  here <https://hackerboxes.com/products/basics-workshop>`__
+                  in single units or class packs of ten.
 
-                  .. container:: photoset
+            .. container:: section step
+               :name: stepsupplies
 
-                     .. container:: photoset-row items-1
+               .. rubric:: Supplies
+                  :name: supplies
+                  :class: step-title
 
-                        .. container:: photoset-item photoset-cell
+               .. container:: step-body
 
-                           .. container:: photoset-image
+                  This material covers introductory electronics in
+                  fifty topics and hands-on experiments. This journey,
+                  which we call *Electrons to A.I.*, starts with
+                  fundamental electricity, visits semiconductor
+                  transistors, digital logic, data storage, sensors,
+                  controllers, computer programs, and arrives
+                  at embedded computing devices capable of machine
+                  learning and artificial intelligence. The *Electrons
+                  to A.I.* educational programming spans the following
+                  subject matter:
 
-                              |Solderless Breadboards|
+                  #. Solderless Breadboards
+                  #. Electron Flow
+                  #. Control Electron Flow with a Switch
+                  #. Control Electron Flow with a Pushbutton
+                  #. Microcontrollers
+                  #. Set Up The Arduino Nano
+                  #. Control Electron Flow with Program Code
+                  #. Looping and Timers
+                  #. Program Output to Serial Monitor
+                  #. Program Input from a Pushbutton
+                  #. Digital Versus Analog
+                  #. Analog Input from a Potentiometer
+                  #. Measuring Voltage
+                  #. Voltage Dividers
+                  #. Resistor Structures
+                  #. Ohm's Law
+                  #. Adjusting Light Brightness
+                  #. Light Sensors
+                  #. Temperature Sensors
+                  #. Program Control Flow
+                  #. Storing Data in Arrays
+                  #. Generating Sound
+                  #. Measure Distance
+                  #. Electromechanical Motion
+                  #. Controlling Servo Motors
+                  #. Displaying Graphics and Text
+                  #. Full Color LEDs 
+                  #. Serial Addressable LEDs
+                  #. Measuring Capacitance
+                  #. Capacitor Structures
+                  #. Electron Flow through Diodes
+                  #. Transistors
+                  #. Transistors as Switches
+                  #. Digital Logic
+                  #. Logic Gates from Transistors
+                  #. Integrated Logic Chips
+                  #. XOR Gates from NAND Gates
+                  #. Combining Logic Gates
+                  #. Storing Information
+                  #. NAND Gate Flip-Flops
+                  #. D Flip-Flop Integrated Circuit
+                  #. Binary Counter
+                  #. Computer Architecture
+                  #. Assembly Language and Machine Code
+                  #. Instruction Cycle
+                  #. Algorithms and Heuristics
+                  #. Machine Learning
+                  #. Artificial Neural Networks
+                  #. Embedded Neural Networks
+                  #. Artificial Intelligence 
+
+            .. container:: section step
+               :name: step1
+
+               .. rubric:: Step 1: Solderless Breadboards
+                  :name: step-1-solderless-breadboards
+                  :class: step-title
+
+               .. container:: mediaset
+
+                  .. container:: photoset-wrapper
+
+                     .. container:: photoset
+
+                        .. container:: photoset-row items-1
+
+                           .. container:: photoset-item photoset-cell
+
+                              .. container:: photoset-image
+
+                                 |Solderless Breadboards|
 
                .. container:: no-js-photoset
 
-                  |image6|
+                  |image2|
 
                .. container:: step-body
 
@@ -178,7 +218,7 @@
 
                .. container:: no-js-photoset
 
-                  |image7|
+                  |image3|
 
                .. container:: step-body
 
@@ -294,7 +334,7 @@
 
                .. container:: no-js-photoset
 
-                  |image8|
+                  |image4|
 
                .. container:: step-body
 
@@ -328,7 +368,7 @@
 
                .. container:: no-js-photoset
 
-                  |image9|
+                  |image5|
 
                .. container:: step-body
 
@@ -361,7 +401,7 @@
 
                .. container:: no-js-photoset
 
-                  |image10|
+                  |image6|
 
                .. container:: step-body
 
@@ -405,7 +445,7 @@
 
                .. container:: no-js-photoset
 
-                  |image11|
+                  |image7|
 
                .. container:: step-body
 
@@ -471,7 +511,7 @@
 
                .. container:: no-js-photoset
 
-                  |image12|
+                  |image8|
 
                .. container:: step-body
 
@@ -562,7 +602,7 @@
 
                .. container:: no-js-photoset
 
-                  |image13|
+                  |image9|
 
                .. container:: step-body
 
@@ -620,7 +660,7 @@
 
                .. container:: no-js-photoset
 
-                  |image14|
+                  |image10|
 
                .. container:: step-body
 
@@ -654,7 +694,7 @@
 
                .. container:: no-js-photoset
 
-                  |image15|
+                  |image11|
 
                .. container:: step-body
 
@@ -671,7 +711,7 @@
                      :class: sr-only
 
                   -  |download {{ file.name }}|
-                     |image16|
+                     |image12|
                      ReadButton.ino
 
                      .. container:: file-actions
@@ -701,7 +741,7 @@
 
                .. container:: no-js-photoset
 
-                  |image17|
+                  |image13|
 
                .. container:: step-body
 
@@ -743,7 +783,7 @@
 
                .. container:: no-js-photoset
 
-                  |image18|
+                  |image14|
 
                .. container:: step-body
 
@@ -770,7 +810,7 @@
                      :class: sr-only
 
                   -  |download {{ file.name }}|
-                     |image19|
+                     |image15|
                      ReadAnalog.ino
 
                      .. container:: file-actions
@@ -800,7 +840,7 @@
 
                .. container:: no-js-photoset
 
-                  |image20|
+                  |image16|
 
                .. container:: step-body
 
@@ -900,7 +940,7 @@
 
                .. container:: no-js-photoset
 
-                  |image21|
+                  |image17|
 
                .. container:: step-body
 
@@ -972,7 +1012,7 @@
 
                .. container:: no-js-photoset
 
-                  |image22|
+                  |image18|
 
                .. container:: step-body
 
@@ -1051,7 +1091,7 @@
 
                .. container:: no-js-photoset
 
-                  |image23|
+                  |image19|
 
                .. container:: step-body
 
@@ -1151,7 +1191,7 @@
 
                .. container:: no-js-photoset
 
-                  |image24|
+                  |image20|
 
                .. container:: step-body
 
@@ -1211,8 +1251,8 @@
                      :name: attachments-3
                      :class: sr-only
 
-                  -  |image25|
-                     |image26|
+                  -  |image21|
+                     |image22|
                      LEDdimmer.ino
 
                      .. container:: file-actions
@@ -1242,7 +1282,7 @@
 
                .. container:: no-js-photoset
 
-                  |image27|
+                  |image23|
 
                .. container:: step-body
 
@@ -1290,7 +1330,7 @@
 
                .. container:: no-js-photoset
 
-                  |image28|
+                  |image24|
 
                .. container:: step-body
 
@@ -1338,8 +1378,8 @@
                      :name: attachments-4
                      :class: sr-only
 
-                  -  |image29|
-                     |image30|
+                  -  |image25|
+                     |image26|
                      ReadTemp.ino
 
                      .. container:: file-actions
@@ -1369,7 +1409,7 @@
 
                .. container:: no-js-photoset
 
-                  |image31|
+                  |image27|
 
                .. container:: step-body
 
@@ -1440,8 +1480,8 @@
                      :name: attachments-5
                      :class: sr-only
 
-                  -  |image32|
-                     |image33|
+                  -  |image28|
+                     |image29|
                      ControlFlow.ino
 
                      .. container:: file-actions
@@ -1471,7 +1511,7 @@
 
                .. container:: no-js-photoset
 
-                  |image34|
+                  |image30|
 
                .. container:: step-body
 
@@ -1539,8 +1579,8 @@
                      :name: attachments-6
                      :class: sr-only
 
-                  -  |image35|
-                     |image36|
+                  -  |image31|
+                     |image32|
                      DataArrays.ino
 
                      .. container:: file-actions
@@ -1570,7 +1610,7 @@
 
                .. container:: no-js-photoset
 
-                  |image37|
+                  |image33|
 
                .. container:: step-body
 
@@ -1657,7 +1697,7 @@
                      :class: sr-only
 
                   -  |download {{ file.name }}|
-                     |image38|
+                     |image34|
                      Sounds.ino
 
                      .. container:: file-actions
@@ -1683,7 +1723,7 @@
 
                .. container:: no-js-photoset
 
-                  |image39|
+                  |image35|
 
                .. container:: step-body
 
@@ -1730,7 +1770,7 @@
                      :class: sr-only
 
                   -  |download {{ file.name }}|
-                     |image40|
+                     |image36|
                      Ultrasound.ino
 
                      .. container:: file-actions
@@ -1760,7 +1800,7 @@
 
                .. container:: no-js-photoset
 
-                  |image41|
+                  |image37|
 
                .. container:: step-body
 
@@ -1861,7 +1901,7 @@
 
                .. container:: no-js-photoset
 
-                  |image42|
+                  |image38|
 
                .. container:: step-body
 
@@ -1928,7 +1968,7 @@
 
                .. container:: no-js-photoset
 
-                  |image43|
+                  |image39|
 
                .. container:: step-body
 
@@ -1996,7 +2036,7 @@
                      :class: sr-only
 
                   -  |download {{ file.name }}|
-                     |image44|
+                     |image40|
                      OLEDtext.ino
 
                      .. container:: file-actions
@@ -2026,7 +2066,7 @@
 
                .. container:: no-js-photoset
 
-                  |image45|
+                  |image41|
 
                .. container:: step-body
 
@@ -2113,7 +2153,7 @@
                      :name: attachments-10
                      :class: sr-only
 
-                  `|image46| <https://content.instructables.com/FTU/616B/KZY53FT5/FTU616BKZY53FT5.ino>`__
+                  `|image42| <https://content.instructables.com/FTU/616B/KZY53FT5/FTU616BKZY53FT5.ino>`__
 
                   .. container:: photoset-row items-1
 
@@ -2125,7 +2165,7 @@
 
                .. container:: no-js-photoset
 
-                  |image47|
+                  |image43|
 
                .. container:: step-body
 
@@ -2224,7 +2264,7 @@
 
                .. container:: no-js-photoset
 
-                  |image48|
+                  |image44|
 
                .. container:: step-body
 
@@ -2300,7 +2340,7 @@
                      :class: sr-only
 
                   |download {{ file.name }}|
-                  |image49|
+                  |image45|
                   Capacitance.ino
 
                   .. container:: file-actions
@@ -2317,7 +2357,7 @@
 
                .. container:: no-js-photoset
 
-                  |image50|
+                  |image46|
 
                .. container:: step-body
 
@@ -2372,7 +2412,7 @@
 
                .. container:: no-js-photoset
 
-                  |image51|
+                  |image47|
 
                .. container:: step-body
 
@@ -2439,7 +2479,7 @@
                      :class: sr-only
 
                   -  |download {{ file.name }}|
-                     |image52|
+                     |image48|
                      DiodeTest.ino
 
                      .. container:: file-actions
@@ -2469,7 +2509,7 @@
 
                .. container:: no-js-photoset
 
-                  |image53|
+                  |image49|
 
                .. container:: step-body
 
@@ -2520,7 +2560,7 @@
 
                .. container:: no-js-photoset
 
-                  |image54|
+                  |image50|
 
                .. container:: step-body
 
@@ -2590,7 +2630,7 @@
 
                .. container:: no-js-photoset
 
-                  |image55|
+                  |image51|
 
                .. container:: step-body
 
@@ -2644,7 +2684,7 @@
 
                .. container:: no-js-photoset
 
-                  |image56|
+                  |image52|
 
                .. container:: step-body
 
@@ -2699,7 +2739,7 @@
 
                .. container:: no-js-photoset
 
-                  |image57|
+                  |image53|
 
                .. container:: step-body
 
@@ -2785,7 +2825,7 @@
 
                .. container:: no-js-photoset
 
-                  |image58|
+                  |image54|
 
                .. container:: step-body
 
@@ -2833,7 +2873,7 @@
 
                .. container:: no-js-photoset
 
-                  |image59|
+                  |image55|
 
                .. container:: step-body
 
@@ -2949,7 +2989,7 @@
 
                .. container:: no-js-photoset
 
-                  |image60|
+                  |image56|
 
                .. container:: step-body
 
@@ -3025,7 +3065,7 @@
 
                .. container:: no-js-photoset
 
-                  |image61|
+                  |image57|
 
                .. container:: step-body
 
@@ -3091,7 +3131,7 @@
 
                .. container:: no-js-photoset
 
-                  |image62|
+                  |image58|
 
                .. container:: step-body
 
@@ -3155,7 +3195,7 @@
 
                .. container:: no-js-photoset
 
-                  |image63|
+                  |image59|
 
                .. container:: step-body
 
@@ -3203,7 +3243,7 @@
 
                .. container:: no-js-photoset
 
-                  |image64|
+                  |image60|
 
                .. container:: step-body
 
@@ -3300,7 +3340,7 @@
 
                .. container:: no-js-photoset
 
-                  |image65|
+                  |image61|
 
                .. container:: step-body
 
@@ -3383,7 +3423,7 @@
 
                .. container:: no-js-photoset
 
-                  |image66|
+                  |image62|
 
                .. container:: step-body
 
@@ -3440,7 +3480,7 @@
 
                .. container:: no-js-photoset
 
-                  |image67|
+                  |image63|
 
                .. container:: step-body
 
@@ -3493,7 +3533,7 @@
 
                .. container:: no-js-photoset
 
-                  |image68|
+                  |image64|
 
                .. container:: step-body
 
@@ -3562,7 +3602,7 @@
 
                .. container:: no-js-photoset
 
-                  |image69|
+                  |image65|
 
                .. container:: step-body
 
@@ -3608,7 +3648,7 @@
 
                .. container:: no-js-photoset
 
-                  |image70|
+                  |image66|
 
                .. container:: step-body
 
@@ -3652,7 +3692,7 @@
 
                .. container:: no-js-photoset
 
-                  |image71|
+                  |image67|
 
                .. container:: step-body
 
@@ -3701,7 +3741,7 @@
 
                .. container:: no-js-photoset
 
-                  |image72|
+                  |image68|
 
                .. container:: step-body
 
@@ -3721,202 +3761,190 @@
 .. |HackerBox Basics Workshop| image:: https://content.instructables.com/FIZ/JJI5/KXBU1CTG/FIZJJI5KXBU1CTG.png?auto=webp&frame=1&width=840&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNDoyMi4w
    :target: https://content.instructables.com/FIZ/JJI5/KXBU1CTG/FIZJJI5KXBU1CTG.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNDoyMi4w
 .. |image1| image:: https://content.instructables.com/FIZ/JJI5/KXBU1CTG/FIZJJI5KXBU1CTG.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |HackerBoxes| image:: https://content.instructables.com/FEB/HF7S/IUSM4BZQ/FEBHF7SIUSM4BZQ.png?auto=webp&crop=1%3A1&frame=1&width=130
-   :class: lazyloaded
-.. |image2| image:: https://content.instructables.com/FEB/HF7S/IUSM4BZQ/FEBHF7SIUSM4BZQ.png?auto=webp&crop=1%3A1&frame=1&width=130
-.. |HackerBox 0108: Newstalgia| image:: https://content.instructables.com/FUI/8ULS/M2RLO8O0/FUI8ULSM2RLO8O0.png?auto=webp&crop=1%3A1&frame=1&width=130
-   :class: lazyloaded
-.. |image3| image:: https://content.instructables.com/FUI/8ULS/M2RLO8O0/FUI8ULSM2RLO8O0.png?auto=webp&crop=1%3A1&frame=1&width=130
-.. |HackerBox 0107: Dock| image:: https://content.instructables.com/FBO/N8XY/M1GG5O6O/FBON8XYM1GG5O6O.png?auto=webp&crop=1%3A1&frame=1&width=130
-   :class: lazyloaded
-.. |image4| image:: https://content.instructables.com/FBO/N8XY/M1GG5O6O/FBON8XYM1GG5O6O.png?auto=webp&crop=1%3A1&frame=1&width=130
-.. |HackerBox 0106: Epoch| image:: https://content.instructables.com/FRU/LY40/M0CFTUY1/FRULY40M0CFTUY1.png?auto=webp&crop=1%3A1&frame=1&width=130
-   :class: lazyloaded
-.. |image5| image:: https://content.instructables.com/FRU/LY40/M0CFTUY1/FRULY40M0CFTUY1.png?auto=webp&crop=1%3A1&frame=1&width=130
 .. |Solderless Breadboards| image:: https://content.instructables.com/F4O/QKFK/KXBU1CTX/F4OQKFKKXBU1CTX.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNDo1NC4w
    :target: https://content.instructables.com/F4O/QKFK/KXBU1CTX/F4OQKFKKXBU1CTX.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNDo1NC4w
-.. |image6| image:: https://content.instructables.com/F4O/QKFK/KXBU1CTX/F4OQKFKKXBU1CTX.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image2| image:: https://content.instructables.com/F4O/QKFK/KXBU1CTX/F4OQKFKKXBU1CTX.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Electron Flow| image:: https://content.instructables.com/F1K/ZK1F/KXBU1CV3/F1KZK1FKXBU1CV3.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNjo0NS4w
    :target: https://content.instructables.com/F1K/ZK1F/KXBU1CV3/F1KZK1FKXBU1CV3.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNjo0NS4w
-.. |image7| image:: https://content.instructables.com/F1K/ZK1F/KXBU1CV3/F1KZK1FKXBU1CV3.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image3| image:: https://content.instructables.com/F1K/ZK1F/KXBU1CV3/F1KZK1FKXBU1CV3.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Control Electron Flow With a Switch| image:: https://content.instructables.com/FBW/1FPI/KXBU1CUX/FBW1FPIKXBU1CUX.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNjozMi4w
    :target: https://content.instructables.com/FBW/1FPI/KXBU1CUX/FBW1FPIKXBU1CUX.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNjozMi4w
-.. |image8| image:: https://content.instructables.com/FBW/1FPI/KXBU1CUX/FBW1FPIKXBU1CUX.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image4| image:: https://content.instructables.com/FBW/1FPI/KXBU1CUX/FBW1FPIKXBU1CUX.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Control Electron Flow With a Pushbutton| image:: https://content.instructables.com/F92/VRAG/KXHJT1S9/F92VRAGKXHJT1S9.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0yMiAyMjoxMDo0Mi4w
    :target: https://content.instructables.com/F92/VRAG/KXHJT1S9/F92VRAGKXHJT1S9.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0yMiAyMjoxMDo0Mi4w
-.. |image9| image:: https://content.instructables.com/F92/VRAG/KXHJT1S9/F92VRAGKXHJT1S9.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image5| image:: https://content.instructables.com/F92/VRAG/KXHJT1S9/F92VRAGKXHJT1S9.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Microcontrollers| image:: https://content.instructables.com/FNE/96J1/KXBU1CVQ/FNE96J1KXBU1CVQ.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNzoxMy4w
    :target: https://content.instructables.com/FNE/96J1/KXBU1CVQ/FNE96J1KXBU1CVQ.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNzoxMy4w
-.. |image10| image:: https://content.instructables.com/FNE/96J1/KXBU1CVQ/FNE96J1KXBU1CVQ.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image6| image:: https://content.instructables.com/FNE/96J1/KXBU1CVQ/FNE96J1KXBU1CVQ.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Set Up the Arduino Nano| image:: https://content.instructables.com/FW9/7ML1/KXBU1CWJ/FW97ML1KXBU1CWJ.png?auto=webp&frame=1&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNzo0Ni4w
    :target: https://content.instructables.com/FW9/7ML1/KXBU1CWJ/FW97ML1KXBU1CWJ.png?auto=webp&frame=1&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNzo0Ni4w
-.. |image11| image:: https://content.instructables.com/FW9/7ML1/KXBU1CWJ/FW97ML1KXBU1CWJ.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
+.. |image7| image:: https://content.instructables.com/FW9/7ML1/KXBU1CWJ/FW97ML1KXBU1CWJ.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
 .. |Control Electron Flow With Program Code| image:: https://content.instructables.com/FR6/EC1U/KXBU1CXE/FR6EC1UKXBU1CXE.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0xOCAxNToyODowOS4w
    :target: https://content.instructables.com/FR6/EC1U/KXBU1CXE/FR6EC1UKXBU1CXE.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyODowOS4w
-.. |image12| image:: https://content.instructables.com/FR6/EC1U/KXBU1CXE/FR6EC1UKXBU1CXE.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image8| image:: https://content.instructables.com/FR6/EC1U/KXBU1CXE/FR6EC1UKXBU1CXE.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Looping and Timers| image:: https://content.instructables.com/FUG/CBQK/KXBU1CYD/FUGCBQKKXBU1CYD.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0xOCAxNToyODozMC4w
    :target: https://content.instructables.com/FUG/CBQK/KXBU1CYD/FUGCBQKKXBU1CYD.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyODozMC4w
-.. |image13| image:: https://content.instructables.com/FUG/CBQK/KXBU1CYD/FUGCBQKKXBU1CYD.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image9| image:: https://content.instructables.com/FUG/CBQK/KXBU1CYD/FUGCBQKKXBU1CYD.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Program Output to Serial Monitor| image:: https://content.instructables.com/FHX/ZTO8/KXD9GP3B/FHXZTO8KXD9GP3B.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0xOSAxODo1NDozOS4w
    :target: https://content.instructables.com/FHX/ZTO8/KXD9GP3B/FHXZTO8KXD9GP3B.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0xOSAxODo1NDozOS4w
-.. |image14| image:: https://content.instructables.com/FHX/ZTO8/KXD9GP3B/FHXZTO8KXD9GP3B.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image10| image:: https://content.instructables.com/FHX/ZTO8/KXD9GP3B/FHXZTO8KXD9GP3B.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Read Program Input From a Pushbutton| image:: https://content.instructables.com/F9D/MT4N/KXD9GLOJ/F9DMT4NKXD9GLOJ.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0xOSAxNjo0NDowNy4w
    :target: https://content.instructables.com/F9D/MT4N/KXD9GLOJ/F9DMT4NKXD9GLOJ.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOSAxNjo0NDowNy4w
-.. |image15| image:: https://content.instructables.com/F9D/MT4N/KXD9GLOJ/F9DMT4NKXD9GLOJ.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image11| image:: https://content.instructables.com/F9D/MT4N/KXD9GLOJ/F9DMT4NKXD9GLOJ.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |download {{ file.name }}| image:: /assets/img/pixel.png
    :class: lazyload tiny-img
-.. |image16| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image12| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Digital Vs. Analog| image:: https://content.instructables.com/F61/HQUT/KXD9GKP2/F61HQUTKXD9GKP2.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0xOSAxNTozMjo0MS4w
    :target: https://content.instructables.com/F61/HQUT/KXD9GKP2/F61HQUTKXD9GKP2.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOSAxNTozMjo0MS4w
-.. |image17| image:: https://content.instructables.com/F61/HQUT/KXD9GKP2/F61HQUTKXD9GKP2.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image13| image:: https://content.instructables.com/F61/HQUT/KXD9GKP2/F61HQUTKXD9GKP2.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Reading Analog Input From a Potentiometer| image:: https://content.instructables.com/FIR/MMYW/KXD9GLP8/FIRMMYWKXD9GLP8.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0xOSAxNjo0Njo0MS4w
    :target: https://content.instructables.com/FIR/MMYW/KXD9GLP8/FIRMMYWKXD9GLP8.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOSAxNjo0Njo0MS4w
-.. |image18| image:: https://content.instructables.com/FIR/MMYW/KXD9GLP8/FIRMMYWKXD9GLP8.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image19| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image14| image:: https://content.instructables.com/FIR/MMYW/KXD9GLP8/FIRMMYWKXD9GLP8.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image15| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Measuring Voltage| image:: https://content.instructables.com/FS8/ZGDB/KXUER3DM/FS8ZGDBKXUER3DM.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAwNzowNDo0Ni4w
    :target: https://content.instructables.com/FS8/ZGDB/KXUER3DM/FS8ZGDBKXUER3DM.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAwNzowNDo0Ni4w
-.. |image20| image:: https://content.instructables.com/FS8/ZGDB/KXUER3DM/FS8ZGDBKXUER3DM.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image16| image:: https://content.instructables.com/FS8/ZGDB/KXUER3DM/FS8ZGDBKXUER3DM.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Voltage Dividers| image:: https://content.instructables.com/FSB/Q38J/KXUER7GY/FSBQ38JKXUER7GY.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyNzoxMC4w
    :target: https://content.instructables.com/FSB/Q38J/KXUER7GY/FSBQ38JKXUER7GY.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyNzoxMC4w
-.. |image21| image:: https://content.instructables.com/FSB/Q38J/KXUER7GY/FSBQ38JKXUER7GY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image17| image:: https://content.instructables.com/FSB/Q38J/KXUER7GY/FSBQ38JKXUER7GY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Resistor Structures| image:: https://content.instructables.com/FSM/8PBJ/KXUER7D0/FSM8PBJKXUER7D0.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMTo1NTowNS4w
    :target: https://content.instructables.com/FSM/8PBJ/KXUER7D0/FSM8PBJKXUER7D0.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMTo1NTowNS4w
-.. |image22| image:: https://content.instructables.com/FSM/8PBJ/KXUER7D0/FSM8PBJKXUER7D0.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image18| image:: https://content.instructables.com/FSM/8PBJ/KXUER7D0/FSM8PBJKXUER7D0.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Ohm's Law| image:: https://content.instructables.com/F8S/OXFE/KXUER7HY/F8SOXFEKXUER7HY.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyODowOS4w
    :target: https://content.instructables.com/F8S/OXFE/KXUER7HY/F8SOXFEKXUER7HY.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyODowOS4w
-.. |image23| image:: https://content.instructables.com/F8S/OXFE/KXUER7HY/F8SOXFEKXUER7HY.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image19| image:: https://content.instructables.com/F8S/OXFE/KXUER7HY/F8SOXFEKXUER7HY.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Adjusting Light Brightness| image:: https://content.instructables.com/FUN/6I6O/KXUER3W6/FUN6I6OKXUER3W6.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAwNzoxNzoxMC4w
    :target: https://content.instructables.com/FUN/6I6O/KXUER3W6/FUN6I6OKXUER3W6.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAwNzoxNzoxMC4w
-.. |image24| image:: https://content.instructables.com/FUN/6I6O/KXUER3W6/FUN6I6OKXUER3W6.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image20| image:: https://content.instructables.com/FUN/6I6O/KXUER3W6/FUN6I6OKXUER3W6.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image21| image:: https://content.instructables.com/static/image/file.default.gif
+   :class: tiny-img ls-is-cached lazyloaded
+.. |image22| image:: https://content.instructables.com/static/image/file.default.gif
+   :class: tiny-img
+.. |Light Sensors| image:: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAyMDozNDoxNy4w
+   :target: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAyMDozNDoxNy4w
+.. |image23| image:: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |Temperature Sensors| image:: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0zMSAxODozMDowNS4w
+   :target: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAxODozMDowNS4w
+.. |image24| image:: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |image25| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img ls-is-cached lazyloaded
 .. |image26| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
-.. |Light Sensors| image:: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAyMDozNDoxNy4w
-   :target: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAyMDozNDoxNy4w
-.. |image27| image:: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Temperature Sensors| image:: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0zMSAxODozMDowNS4w
-   :target: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAxODozMDowNS4w
-.. |image28| image:: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image29| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img ls-is-cached lazyloaded
-.. |image30| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img
 .. |Program Control Flow| image:: https://content.instructables.com/F60/AKI5/KXUER64L/F60AKI5KXUER64L.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0zMSAwODowNzowOS4w
    :target: https://content.instructables.com/F60/AKI5/KXUER64L/F60AKI5KXUER64L.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAwODowNzowOS4w
-.. |image31| image:: https://content.instructables.com/F60/AKI5/KXUER64L/F60AKI5KXUER64L.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image32| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image27| image:: https://content.instructables.com/F60/AKI5/KXUER64L/F60AKI5KXUER64L.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image28| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img lazyloaded
-.. |image33| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image29| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Storing Data in Arrays| image:: https://content.instructables.com/F3E/HNXA/KZLA6X38/F3EHNXAKZLA6X38.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTowMTowOS4w
    :target: https://content.instructables.com/F3E/HNXA/KZLA6X38/F3EHNXAKZLA6X38.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTowMTowOS4w
-.. |image34| image:: https://content.instructables.com/F3E/HNXA/KZLA6X38/F3EHNXAKZLA6X38.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |image35| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image30| image:: https://content.instructables.com/F3E/HNXA/KZLA6X38/F3EHNXAKZLA6X38.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image31| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img ls-is-cached lazyloaded
-.. |image36| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image32| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Generating Sound| image:: https://content.instructables.com/FD9/VRLF/KZLA6X5F/FD9VRLFKZLA6X5F.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMi0xMyAxOTowNDo1MS4w
    :target: https://content.instructables.com/FD9/VRLF/KZLA6X5F/FD9VRLFKZLA6X5F.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTowNDo1MS4w
-.. |image37| image:: https://content.instructables.com/FD9/VRLF/KZLA6X5F/FD9VRLFKZLA6X5F.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image38| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image33| image:: https://content.instructables.com/FD9/VRLF/KZLA6X5F/FD9VRLFKZLA6X5F.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image34| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Measuring Distance| image:: https://content.instructables.com/F6G/HRM2/KZLA6X9K/F6GHRM2KZLA6X9K.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMi0xMyAxOToyMjozOC4w
    :target: https://content.instructables.com/F6G/HRM2/KZLA6X9K/F6GHRM2KZLA6X9K.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOToyMjozOC4w
-.. |image39| image:: https://content.instructables.com/F6G/HRM2/KZLA6X9K/F6GHRM2KZLA6X9K.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image40| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image35| image:: https://content.instructables.com/F6G/HRM2/KZLA6X9K/F6GHRM2KZLA6X9K.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image36| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Electromechanical Motion| image:: https://content.instructables.com/FIK/K6WM/KZLA6XCI/FIKK6WMKZLA6XCI.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOToyNTowNC4w
    :target: https://content.instructables.com/FIK/K6WM/KZLA6XCI/FIKK6WMKZLA6XCI.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOToyNTowNC4w
-.. |image41| image:: https://content.instructables.com/FIK/K6WM/KZLA6XCI/FIKK6WMKZLA6XCI.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image37| image:: https://content.instructables.com/FIK/K6WM/KZLA6XCI/FIKK6WMKZLA6XCI.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Controlling Servo Motors| image:: https://content.instructables.com/FVT/4NVT/KZLA6XEC/FVT4NVTKZLA6XEC.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMi0xMyAxOTozMTozOC4w
    :target: https://content.instructables.com/FVT/4NVT/KZLA6XEC/FVT4NVTKZLA6XEC.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTozMTozOC4w
-.. |image42| image:: https://content.instructables.com/FVT/4NVT/KZLA6XEC/FVT4NVTKZLA6XEC.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image38| image:: https://content.instructables.com/FVT/4NVT/KZLA6XEC/FVT4NVTKZLA6XEC.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Displaying Graphics and Text| image:: https://content.instructables.com/FPN/QG2Z/KZTUSE0G/FPNQG2ZKZTUSE0G.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMi0wMi0xOSAxNTo0OTo1NS4w
    :target: https://content.instructables.com/FPN/QG2Z/KZTUSE0G/FPNQG2ZKZTUSE0G.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xOSAxNTo0OTo1NS4w
-.. |image43| image:: https://content.instructables.com/FPN/QG2Z/KZTUSE0G/FPNQG2ZKZTUSE0G.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image44| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image39| image:: https://content.instructables.com/FPN/QG2Z/KZTUSE0G/FPNQG2ZKZTUSE0G.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image40| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Full Color LEDs| image:: https://content.instructables.com/FQW/LN5S/KZY53FRY/FQWLN5SKZY53FRY.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMi0yMiAxNzoyMjo0NS4w
    :target: https://content.instructables.com/FQW/LN5S/KZY53FRY/FQWLN5SKZY53FRY.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0yMiAxNzoyMjo0NS4w
-.. |image45| image:: https://content.instructables.com/FQW/LN5S/KZY53FRY/FQWLN5SKZY53FRY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image46| image:: /assets/img/pixel.png%0A%20%20%20%20%3Cdiv%20class=
+.. |image41| image:: https://content.instructables.com/FQW/LN5S/KZY53FRY/FQWLN5SKZY53FRY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image42| image:: /assets/img/pixel.png%0A%20%20%20%20%3Cdiv%20class=
    :class: lazyload tiny-img
 .. |Serial Addressable LEDs| image:: https://content.instructables.com/F5C/DZCY/L0XV4DP3/F5CDZCYL0XV4DP3.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMy0xOSAxNzoyNTo0My4w
    :target: https://content.instructables.com/F5C/DZCY/L0XV4DP3/F5CDZCYL0XV4DP3.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMy0xOSAxNzoyNTo0My4w
-.. |image47| image:: https://content.instructables.com/F5C/DZCY/L0XV4DP3/F5CDZCYL0XV4DP3.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image43| image:: https://content.instructables.com/F5C/DZCY/L0XV4DP3/F5CDZCYL0XV4DP3.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Measuring Capacitance| image:: https://content.instructables.com/FPD/WG46/L9SI9OKG/FPDWG46L9SI9OKG.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0xMC0yOCAxMjo1MjozNy4w
    :target: https://content.instructables.com/FPD/WG46/L9SI9OKG/FPDWG46L9SI9OKG.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0xMC0yOCAxMjo1MjozNy4w
-.. |image48| image:: https://content.instructables.com/FPD/WG46/L9SI9OKG/FPDWG46L9SI9OKG.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image49| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image44| image:: https://content.instructables.com/FPD/WG46/L9SI9OKG/FPDWG46L9SI9OKG.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image45| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Capacitor Structures| image:: https://content.instructables.com/FR4/LPRW/L9VD43SL/FR4LPRWL9VD43SL.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMi0xMC0zMCAwNzo1ODowNS4w
    :target: https://content.instructables.com/FR4/LPRW/L9VD43SL/FR4LPRWL9VD43SL.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0xMC0zMCAwNzo1ODowNS4w
-.. |image50| image:: https://content.instructables.com/FR4/LPRW/L9VD43SL/FR4LPRWL9VD43SL.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image46| image:: https://content.instructables.com/FR4/LPRW/L9VD43SL/FR4LPRWL9VD43SL.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Electron Flow Through Diodes| image:: https://content.instructables.com/FLI/0Y0Q/L9VD44TB/FLI0Y0QL9VD44TB.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMi0xMC0zMCAxMTo0OTo1My4w
    :target: https://content.instructables.com/FLI/0Y0Q/L9VD44TB/FLI0Y0QL9VD44TB.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0xMC0zMCAxMTo0OTo1My4w
-.. |image51| image:: https://content.instructables.com/FLI/0Y0Q/L9VD44TB/FLI0Y0QL9VD44TB.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |image52| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image47| image:: https://content.instructables.com/FLI/0Y0Q/L9VD44TB/FLI0Y0QL9VD44TB.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image48| image:: https://content.instructables.com/static/image/file.default.gif
    :class: tiny-img
 .. |Transitors| image:: https://content.instructables.com/F0Y/1QYI/LKMLGCCK/F0Y1QYILKMLGCCK.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMy0wNy0yOCAwODo0MzoyOS4w
    :target: https://content.instructables.com/F0Y/1QYI/LKMLGCCK/F0Y1QYILKMLGCCK.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMy0wNy0yOCAwODo0MzoyOS4w
-.. |image53| image:: https://content.instructables.com/F0Y/1QYI/LKMLGCCK/F0Y1QYILKMLGCCK.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image49| image:: https://content.instructables.com/F0Y/1QYI/LKMLGCCK/F0Y1QYILKMLGCCK.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Transistors As Switches| image:: https://content.instructables.com/FWF/SZZP/LKMLGG64/FWFSZZPLKMLGG64.png?auto=webp&frame=1&fit=bounds&md=MjAyMy0wNy0yOCAxMjo0NjozNy4w
    :target: https://content.instructables.com/FWF/SZZP/LKMLGG64/FWFSZZPLKMLGG64.png?auto=webp&frame=1&fit=bounds&md=MjAyMy0wNy0yOCAxMjo0NjozNy4w
-.. |image54| image:: https://content.instructables.com/FWF/SZZP/LKMLGG64/FWFSZZPLKMLGG64.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
+.. |image50| image:: https://content.instructables.com/FWF/SZZP/LKMLGG64/FWFSZZPLKMLGG64.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
 .. |Digital Logic| image:: https://content.instructables.com/FJL/TPMV/LKPGBZTI/FJLTPMVLKPGBZTI.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxMzo0NTo1Ny4w
    :target: https://content.instructables.com/FJL/TPMV/LKPGBZTI/FJLTPMVLKPGBZTI.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxMzo0NTo1Ny4w
-.. |image55| image:: https://content.instructables.com/FJL/TPMV/LKPGBZTI/FJLTPMVLKPGBZTI.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image51| image:: https://content.instructables.com/FJL/TPMV/LKPGBZTI/FJLTPMVLKPGBZTI.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Logic Gates From Transistors| image:: https://content.instructables.com/FP9/CCXY/LKPGBZVE/FP9CCXYLKPGBZVE.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxMzo1NDo0OS4w
    :target: https://content.instructables.com/FP9/CCXY/LKPGBZVE/FP9CCXYLKPGBZVE.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxMzo1NDo0OS4w
-.. |image56| image:: https://content.instructables.com/FP9/CCXY/LKPGBZVE/FP9CCXYLKPGBZVE.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image52| image:: https://content.instructables.com/FP9/CCXY/LKPGBZVE/FP9CCXYLKPGBZVE.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Integrated Logic Chips| image:: https://content.instructables.com/F77/D7SD/LKPGC03P/F77D7SDLKPGC03P.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMy0wNy0zMCAxNTowMjoyMC4w
    :target: https://content.instructables.com/F77/D7SD/LKPGC03P/F77D7SDLKPGC03P.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMy0wNy0zMCAxNTowMjoyMC4w
-.. |image57| image:: https://content.instructables.com/F77/D7SD/LKPGC03P/F77D7SDLKPGC03P.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image53| image:: https://content.instructables.com/F77/D7SD/LKPGC03P/F77D7SDLKPGC03P.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |XOR Implemented From NAND Gates| image:: https://content.instructables.com/F2G/ND41/LKPGC06E/F2GND41LKPGC06E.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxNToxODoyNC4w
    :target: https://content.instructables.com/F2G/ND41/LKPGC06E/F2GND41LKPGC06E.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxNToxODoyNC4w
-.. |image58| image:: https://content.instructables.com/F2G/ND41/LKPGC06E/F2GND41LKPGC06E.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image54| image:: https://content.instructables.com/F2G/ND41/LKPGC06E/F2GND41LKPGC06E.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Combining Logic Gates| image:: https://content.instructables.com/FUO/4AFY/LKQVRX0W/FUO4AFYLKQVRX0W.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMy0wNy0zMSAwODo1MjozMi4w
    :target: https://content.instructables.com/FUO/4AFY/LKQVRX0W/FUO4AFYLKQVRX0W.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMy0wNy0zMSAwODo1MjozMi4w
-.. |image59| image:: https://content.instructables.com/FUO/4AFY/LKQVRX0W/FUO4AFYLKQVRX0W.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image55| image:: https://content.instructables.com/FUO/4AFY/LKQVRX0W/FUO4AFYLKQVRX0W.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |Storing Information| image:: https://content.instructables.com/FWH/ZBL7/LKV63DOY/FWHZBL7LKV63DOY.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMy0wOC0wMyAxMTo1MDozOC4w
    :target: https://content.instructables.com/FWH/ZBL7/LKV63DOY/FWHZBL7LKV63DOY.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMTo1MDozOC4w
-.. |image60| image:: https://content.instructables.com/FWH/ZBL7/LKV63DOY/FWHZBL7LKV63DOY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
+.. |image56| image:: https://content.instructables.com/FWH/ZBL7/LKV63DOY/FWHZBL7LKV63DOY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
 .. |NAND Gate Flip-Flops| image:: https://content.instructables.com/FQK/L58B/LKV63DRS/FQKL58BLKV63DRS.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMTo1MzozOS4w
    :target: https://content.instructables.com/FQK/L58B/LKV63DRS/FQKL58BLKV63DRS.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMTo1MzozOS4w
-.. |image61| image:: https://content.instructables.com/FQK/L58B/LKV63DRS/FQKL58BLKV63DRS.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image57| image:: https://content.instructables.com/FQK/L58B/LKV63DRS/FQKL58BLKV63DRS.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |D Flip-Flop Integrated Circuit| image:: https://content.instructables.com/FJR/Q6N0/LKV63E60/FJRQ6N0LKV63E60.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMjo0NzowNC4w
    :target: https://content.instructables.com/FJR/Q6N0/LKV63E60/FJRQ6N0LKV63E60.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMjo0NzowNC4w
-.. |image62| image:: https://content.instructables.com/FJR/Q6N0/LKV63E60/FJRQ6N0LKV63E60.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image58| image:: https://content.instructables.com/FJR/Q6N0/LKV63E60/FJRQ6N0LKV63E60.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Binary Counter| image:: https://content.instructables.com/FYD/8P7F/LKV63E7Z/FYD8P7FLKV63E7Z.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMjo0OTo0OC4w
    :target: https://content.instructables.com/FYD/8P7F/LKV63E7Z/FYD8P7FLKV63E7Z.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMjo0OTo0OC4w
-.. |image63| image:: https://content.instructables.com/FYD/8P7F/LKV63E7Z/FYD8P7FLKV63E7Z.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image59| image:: https://content.instructables.com/FYD/8P7F/LKV63E7Z/FYD8P7FLKV63E7Z.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Computer Architecture| image:: https://content.instructables.com/FD6/7JCT/LKWLJ52I/FD67JCTLKWLJ52I.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo0Nzo1Ny4w
    :target: https://content.instructables.com/FD6/7JCT/LKWLJ52I/FD67JCTLKWLJ52I.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo0Nzo1Ny4w
-.. |image64| image:: https://content.instructables.com/FD6/7JCT/LKWLJ52I/FD67JCTLKWLJ52I.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image60| image:: https://content.instructables.com/FD6/7JCT/LKWLJ52I/FD67JCTLKWLJ52I.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Assembly Language and Machine Code| image:: https://content.instructables.com/FOH/HXWO/LKWLJ54B/FOHHXWOLKWLJ54B.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MDoyMy4w
    :target: https://content.instructables.com/FOH/HXWO/LKWLJ54B/FOHHXWOLKWLJ54B.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MDoyMy4w
-.. |image65| image:: https://content.instructables.com/FOH/HXWO/LKWLJ54B/FOHHXWOLKWLJ54B.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image61| image:: https://content.instructables.com/FOH/HXWO/LKWLJ54B/FOHHXWOLKWLJ54B.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Instruction Cycle| image:: https://content.instructables.com/FWJ/POKP/LKWLJ56M/FWJPOKPLKWLJ56M.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MToyMC4w
    :target: https://content.instructables.com/FWJ/POKP/LKWLJ56M/FWJPOKPLKWLJ56M.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MToyMC4w
-.. |image66| image:: https://content.instructables.com/FWJ/POKP/LKWLJ56M/FWJPOKPLKWLJ56M.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image62| image:: https://content.instructables.com/FWJ/POKP/LKWLJ56M/FWJPOKPLKWLJ56M.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Algorithms and Heuristics| image:: https://content.instructables.com/FUB/DFM3/LKWLJ5A7/FUBDFM3LKWLJ5A7.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MjozNy4w
    :target: https://content.instructables.com/FUB/DFM3/LKWLJ5A7/FUBDFM3LKWLJ5A7.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MjozNy4w
-.. |image67| image:: https://content.instructables.com/FUB/DFM3/LKWLJ5A7/FUBDFM3LKWLJ5A7.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image63| image:: https://content.instructables.com/FUB/DFM3/LKWLJ5A7/FUBDFM3LKWLJ5A7.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Machine Learning| image:: https://content.instructables.com/FKB/EPPN/LKY0YTZT/FKBEPPNLKY0YTZT.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMDo1ODowMi4w
    :target: https://content.instructables.com/FKB/EPPN/LKY0YTZT/FKBEPPNLKY0YTZT.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMDo1ODowMi4w
-.. |image68| image:: https://content.instructables.com/FKB/EPPN/LKY0YTZT/FKBEPPNLKY0YTZT.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image64| image:: https://content.instructables.com/FKB/EPPN/LKY0YTZT/FKBEPPNLKY0YTZT.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Artificial Neural Networks| image:: https://content.instructables.com/FQG/AOFN/LKY0YU22/FQGAOFNLKY0YU22.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowMTowNS4w
    :target: https://content.instructables.com/FQG/AOFN/LKY0YU22/FQGAOFNLKY0YU22.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowMTowNS4w
-.. |image69| image:: https://content.instructables.com/FQG/AOFN/LKY0YU22/FQGAOFNLKY0YU22.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image65| image:: https://content.instructables.com/FQG/AOFN/LKY0YU22/FQGAOFNLKY0YU22.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Embedded Neural Networks| image:: https://content.instructables.com/F61/F7OM/LKY0YU45/F61F7OMLKY0YU45.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowMzoyOS4w
    :target: https://content.instructables.com/F61/F7OM/LKY0YU45/F61F7OMLKY0YU45.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowMzoyOS4w
-.. |image70| image:: https://content.instructables.com/F61/F7OM/LKY0YU45/F61F7OMLKY0YU45.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image66| image:: https://content.instructables.com/F61/F7OM/LKY0YU45/F61F7OMLKY0YU45.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Artificial Intelligence| image:: https://content.instructables.com/FC3/LMKT/LKY0YU9M/FC3LMKTLKY0YU9M.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowNjoxMC4w
    :target: https://content.instructables.com/FC3/LMKT/LKY0YU9M/FC3LMKTLKY0YU9M.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowNjoxMC4w
-.. |image71| image:: https://content.instructables.com/FC3/LMKT/LKY0YU9M/FC3LMKTLKY0YU9M.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
+.. |image67| image:: https://content.instructables.com/FC3/LMKT/LKY0YU9M/FC3LMKTLKY0YU9M.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
 .. |Hack the Planet| image:: https://content.instructables.com/FC6/ND5V/LKY0YUDQ/FC6ND5VLKY0YUDQ.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMy0wOC0wNSAxMTowNjoyOS4w
    :target: https://content.instructables.com/FC6/ND5V/LKY0YUDQ/FC6ND5VLKY0YUDQ.png?auto=webp&frame=1&fit=bounds&md=MjAyMy0wOC0wNSAxMTowNjoyOS4w
-.. |image72| image:: https://content.instructables.com/FC6/ND5V/LKY0YUDQ/FC6ND5VLKY0YUDQ.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
+.. |image68| image:: https://content.instructables.com/FC6/ND5V/LKY0YUDQ/FC6ND5VLKY0YUDQ.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
