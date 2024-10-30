@@ -1,3 +1,12 @@
+====================================================
+HackerBox Basics Workshop : 51 Steps - Instructables
+====================================================
+
+.. container:: site-announcements
+   :name: site-announcements
+
+   .. container:: site-announcements-content
+
 .. container::
 
    .. container::
@@ -17,8 +26,18 @@
 
                .. container:: header-byline
 
-                  By `HackerBoxes </member/HackerBoxes/>`__ in
-                  `Circuits </circuits/>`__\ `Electronics </circuits/electronics/projects/>`__
+                  By
+                  `HackerBoxes <https://www.instructables.com/member/HackerBoxes/>`__
+                  in
+                  `Circuits <https://www.instructables.com/circuits/>`__\ `Electronics <https://www.instructables.com/circuits/electronics/projects/>`__
+
+            .. container:: sub-header header-meta-actions
+
+               .. container:: header-meta
+
+                  |license|
+
+         HackerBox Basics Workshop
 
          .. container:: article-body
 
@@ -317,20 +336,43 @@
 
                   The 1K resistors can be:
 
-                  Beige with stripes colored: brown, black, red (1_0_00
-                  = 1K Ohms), or
-                  Blue with stripes colored: brown, black, black, brown
-                  (1_0_0\_
+                  #. Beige with stripes colored: brown, black, red
+                     (1_0_00 = 1K Ohms), or
+                  #. Blue with stripes colored: brown, black, black,
+                     brown (1_0_0_0 = 1K ohms)
 
-                  .. container:: photoset
+                  The 10K resistors can be:
 
-                     .. container:: photoset-row items-1
+                  #. Beige with stripes colored: brown, black, orange
+                     (1_0_000 = 10K Ohms), or
+                  #. Blue with stripes colored: brown, black, black, red
+                     (1_0_0_00 = 10K ohms)
 
-                        .. container:: photoset-item photoset-cell
+                  Resistor `color code
+                  calculator <https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code>`__.
 
-                           .. container:: photoset-image
+                  | 
 
-                              |Control Electron Flow With a Switch|
+            .. container:: section step
+               :name: step3
+
+               .. rubric:: Step 3: Control Electron Flow With a Switch
+                  :name: step-3-control-electron-flow-with-a-switch
+                  :class: step-title
+
+               .. container:: mediaset
+
+                  .. container:: photoset-wrapper
+
+                     .. container:: photoset
+
+                        .. container:: photoset-row items-1
+
+                           .. container:: photoset-item photoset-cell
+
+                              .. container:: photoset-image
+
+                                 |Control Electron Flow With a Switch|
 
                .. container:: no-js-photoset
 
@@ -928,19 +970,38 @@
                      :name: attachments-2
                      :class: sr-only
 
-                  ` <https://content.instructables.com/FRK/H8OK/KXUER3EI/FRKH8OKKXUER3EI.ino>`__
+                  -  |image17|
+                     |image18|
+                     ReadVoltage.ino
 
-                  .. container:: photoset-row items-1
+                     .. container:: file-actions
 
-                     .. container:: photoset-item photoset-cell
+                        `Download <https://content.instructables.com/FRK/H8OK/KXUER3EI/FRKH8OKKXUER3EI.ino>`__
 
-                        .. container:: photoset-image
+            .. container:: section step
+               :name: step14
 
-                           |Voltage Dividers|
+               .. rubric:: Step 14: Voltage Dividers
+                  :name: step-14-voltage-dividers
+                  :class: step-title
+
+               .. container:: mediaset
+
+                  .. container:: photoset-wrapper
+
+                     .. container:: photoset
+
+                        .. container:: photoset-row items-1
+
+                           .. container:: photoset-item photoset-cell
+
+                              .. container:: photoset-image
+
+                                 |Voltage Dividers|
 
                .. container:: no-js-photoset
 
-                  |image17|
+                  |image19|
 
                .. container:: step-body
 
@@ -1012,7 +1073,7 @@
 
                .. container:: no-js-photoset
 
-                  |image18|
+                  |image20|
 
                .. container:: step-body
 
@@ -1091,7 +1152,7 @@
 
                .. container:: no-js-photoset
 
-                  |image19|
+                  |image21|
 
                .. container:: step-body
 
@@ -1191,7 +1252,7 @@
 
                .. container:: no-js-photoset
 
-                  |image20|
+                  |image22|
 
                .. container:: step-body
 
@@ -1251,8 +1312,8 @@
                      :name: attachments-3
                      :class: sr-only
 
-                  -  |image21|
-                     |image22|
+                  -  |image23|
+                     |image24|
                      LEDdimmer.ino
 
                      .. container:: file-actions
@@ -1282,7 +1343,7 @@
 
                .. container:: no-js-photoset
 
-                  |image23|
+                  |image25|
 
                .. container:: step-body
 
@@ -1330,7 +1391,7 @@
 
                .. container:: no-js-photoset
 
-                  |image24|
+                  |image26|
 
                .. container:: step-body
 
@@ -1378,8 +1439,8 @@
                      :name: attachments-4
                      :class: sr-only
 
-                  -  |image25|
-                     |image26|
+                  -  |download {{ file.name }}|
+                     |image27|
                      ReadTemp.ino
 
                      .. container:: file-actions
@@ -1409,7 +1470,7 @@
 
                .. container:: no-js-photoset
 
-                  |image27|
+                  |image28|
 
                .. container:: step-body
 
@@ -1480,7 +1541,7 @@
                      :name: attachments-5
                      :class: sr-only
 
-                  -  |image28|
+                  -  |download {{ file.name }}|
                      |image29|
                      ControlFlow.ino
 
@@ -1707,19 +1768,23 @@
             .. container:: section step
                :name: step23
 
-               .. rubric:: Step 23: Measuring Distanc
-                  :name: step-23-measuring-distanc
+               .. rubric:: Step 23: Measuring Distance
+                  :name: step-23-measuring-distance
                   :class: step-title
 
-               .. container:: photoset
+               .. container:: mediaset
 
-                  .. container:: photoset-row items-1
+                  .. container:: photoset-wrapper
 
-                     .. container:: photoset-item photoset-cell
+                     .. container:: photoset
 
-                        .. container:: photoset-image
+                        .. container:: photoset-row items-1
 
-                           |Measuring Distance|
+                           .. container:: photoset-item photoset-cell
+
+                              .. container:: photoset-image
+
+                                 |Measuring Distance|
 
                .. container:: no-js-photoset
 
@@ -2035,8 +2100,8 @@
                      :name: attachments-9
                      :class: sr-only
 
-                  -  |download {{ file.name }}|
-                     |image40|
+                  -  |image40|
+                     |image41|
                      OLEDtext.ino
 
                      .. container:: file-actions
@@ -2066,7 +2131,7 @@
 
                .. container:: no-js-photoset
 
-                  |image41|
+                  |image42|
 
                .. container:: step-body
 
@@ -2153,19 +2218,38 @@
                      :name: attachments-10
                      :class: sr-only
 
-                  `|image42| <https://content.instructables.com/FTU/616B/KZY53FT5/FTU616BKZY53FT5.ino>`__
+                  -  |download {{ file.name }}|
+                     |image43|
+                     CommonCathodeRGB.ino
 
-                  .. container:: photoset-row items-1
+                     .. container:: file-actions
 
-                     .. container:: photoset-item photoset-cell
+                        `Download <https://content.instructables.com/FTU/616B/KZY53FT5/FTU616BKZY53FT5.ino>`__
 
-                        .. container:: photoset-image
+            .. container:: section step
+               :name: step28
 
-                           |Serial Addressable LEDs|
+               .. rubric:: Step 28: Serial Addressable LEDs
+                  :name: step-28-serial-addressable-leds
+                  :class: step-title
+
+               .. container:: mediaset
+
+                  .. container:: photoset-wrapper
+
+                     .. container:: photoset
+
+                        .. container:: photoset-row items-1
+
+                           .. container:: photoset-item photoset-cell
+
+                              .. container:: photoset-image
+
+                                 |Serial Addressable LEDs|
 
                .. container:: no-js-photoset
 
-                  |image43|
+                  |image44|
 
                .. container:: step-body
 
@@ -2264,7 +2348,7 @@
 
                .. container:: no-js-photoset
 
-                  |image44|
+                  |image45|
 
                .. container:: step-body
 
@@ -2339,25 +2423,38 @@
                      :name: attachments-11
                      :class: sr-only
 
-                  |download {{ file.name }}|
-                  |image45|
-                  Capacitance.ino
+                  -  |download {{ file.name }}|
+                     |image46|
+                     Capacitance.ino
 
-                  .. container:: file-actions
+                     .. container:: file-actions
 
-                     ` <https://content.instructables.com/F3D/ANNL/L9SI9OJ7/F3DANNLL9SI9OJ7.ino>`__
+                        `Download <https://content.instructables.com/F3D/ANNL/L9SI9OJ7/F3DANNLL9SI9OJ7.ino>`__
 
-                     .. container:: photoset-row items-1
+            .. container:: section step
+               :name: step30
 
-                        .. container:: photoset-item photoset-cell
+               .. rubric:: Step 30: Capacitor Structures
+                  :name: step-30-capacitor-structures
+                  :class: step-title
 
-                           .. container:: photoset-image
+               .. container:: mediaset
 
-                              |Capacitor Structures|
+                  .. container:: photoset-wrapper
+
+                     .. container:: photoset
+
+                        .. container:: photoset-row items-1
+
+                           .. container:: photoset-item photoset-cell
+
+                              .. container:: photoset-image
+
+                                 |Capacitor Structures|
 
                .. container:: no-js-photoset
 
-                  |image46|
+                  |image47|
 
                .. container:: step-body
 
@@ -2412,7 +2509,7 @@
 
                .. container:: no-js-photoset
 
-                  |image47|
+                  |image48|
 
                .. container:: step-body
 
@@ -2479,7 +2576,7 @@
                      :class: sr-only
 
                   -  |download {{ file.name }}|
-                     |image48|
+                     |image49|
                      DiodeTest.ino
 
                      .. container:: file-actions
@@ -2509,7 +2606,7 @@
 
                .. container:: no-js-photoset
 
-                  |image49|
+                  |image50|
 
                .. container:: step-body
 
@@ -2560,7 +2657,7 @@
 
                .. container:: no-js-photoset
 
-                  |image50|
+                  |image51|
 
                .. container:: step-body
 
@@ -2630,7 +2727,7 @@
 
                .. container:: no-js-photoset
 
-                  |image51|
+                  |image52|
 
                .. container:: step-body
 
@@ -2684,7 +2781,7 @@
 
                .. container:: no-js-photoset
 
-                  |image52|
+                  |image53|
 
                .. container:: step-body
 
@@ -2739,7 +2836,7 @@
 
                .. container:: no-js-photoset
 
-                  |image53|
+                  |image54|
 
                .. container:: step-body
 
@@ -2825,7 +2922,7 @@
 
                .. container:: no-js-photoset
 
-                  |image54|
+                  |image55|
 
                .. container:: step-body
 
@@ -2873,7 +2970,7 @@
 
                .. container:: no-js-photoset
 
-                  |image55|
+                  |image56|
 
                .. container:: step-body
 
@@ -2975,21 +3072,37 @@
                   given two sets of input bits that represent two
                   numerical values along with some control bits
                   indicating which mathematical operation to perform on
-                  the two inputs. The ALU then genera
+                  the two inputs. The ALU then generates a set of output
+                  bits representing the result of the computation. The
+                  ALU includes the circuitry necessary to perform the
+                  computation on the input bits. For example, the adders
+                  that we've built would be used when the control bits
+                  indicate that an addition is to be performed.
 
-                  .. container:: photoset
+            .. container:: section step
+               :name: step39
 
-                     .. container:: photoset-row items-1
+               .. rubric:: Step 39: Storing Information
+                  :name: step-39-storing-information
+                  :class: step-title
 
-                        .. container:: photoset-item photoset-cell
+               .. container:: mediaset
 
-                           .. container:: photoset-image
+                  .. container:: photoset-wrapper
 
-                              |Storing Information|
+                     .. container:: photoset
+
+                        .. container:: photoset-row items-1
+
+                           .. container:: photoset-item photoset-cell
+
+                              .. container:: photoset-image
+
+                                 |Storing Information|
 
                .. container:: no-js-photoset
 
-                  |image56|
+                  |image57|
 
                .. container:: step-body
 
@@ -3065,7 +3178,7 @@
 
                .. container:: no-js-photoset
 
-                  |image57|
+                  |image58|
 
                .. container:: step-body
 
@@ -3131,7 +3244,7 @@
 
                .. container:: no-js-photoset
 
-                  |image58|
+                  |image59|
 
                .. container:: step-body
 
@@ -3195,7 +3308,7 @@
 
                .. container:: no-js-photoset
 
-                  |image59|
+                  |image60|
 
                .. container:: step-body
 
@@ -3243,7 +3356,7 @@
 
                .. container:: no-js-photoset
 
-                  |image60|
+                  |image61|
 
                .. container:: step-body
 
@@ -3340,7 +3453,7 @@
 
                .. container:: no-js-photoset
 
-                  |image61|
+                  |image62|
 
                .. container:: step-body
 
@@ -3423,7 +3536,7 @@
 
                .. container:: no-js-photoset
 
-                  |image62|
+                  |image63|
 
                .. container:: step-body
 
@@ -3480,7 +3593,7 @@
 
                .. container:: no-js-photoset
 
-                  |image63|
+                  |image64|
 
                .. container:: step-body
 
@@ -3533,7 +3646,7 @@
 
                .. container:: no-js-photoset
 
-                  |image64|
+                  |image65|
 
                .. container:: step-body
 
@@ -3602,7 +3715,7 @@
 
                .. container:: no-js-photoset
 
-                  |image65|
+                  |image66|
 
                .. container:: step-body
 
@@ -3648,7 +3761,7 @@
 
                .. container:: no-js-photoset
 
-                  |image66|
+                  |image67|
 
                .. container:: step-body
 
@@ -3692,7 +3805,7 @@
 
                .. container:: no-js-photoset
 
-                  |image67|
+                  |image68|
 
                .. container:: step-body
 
@@ -3741,14 +3854,15 @@
 
                .. container:: no-js-photoset
 
-                  |image68|
+                  |image69|
 
                .. container:: step-body
 
                   We hope you are enjoying the **HackerBox Basics
                   Workshop**. To continue your adventure into
                   electronics, computer technology, and hacker culture,
-                  visit `HackerBoxes.com <http://www.HackerBoxes.com>`__
+                  visit
+                  `HackerBoxes.com <http://www.hackerboxes.com/>`__
                   where you can find the `HackerBox Soldering
                   Workshop <https://hackerboxes.com/products/soldering-workshop>`__,
                   and `HackerBox Core
@@ -3758,193 +3872,2073 @@
                   those found in the monthly HackerBox subscription
                   boxes.
 
-.. |HackerBox Basics Workshop| image:: https://content.instructables.com/FIZ/JJI5/KXBU1CTG/FIZJJI5KXBU1CTG.png?auto=webp&frame=1&width=840&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNDoyMi4w
+.. container::
+   :name: adsk-eprivacy-body-parent
+
+   .. container::
+   adsk-eprivacy-wd-ts-base adsk-eprivacy-disabled adsk-eprivacy-animate--scroll-down-out adsk-eprivacy-alternate-layout
+      :name: adsk-eprivacy-body
+
+      .. container:: adsk-eprivacy-generic-close-btn
+         :name: adsk-eprivacy-main--background
+
+         \_\_\_\_\_\_
+
+      .. container::
+         :name: adsk-eprivacy-root
+
+         .. container::
+         adsk-eprivacy-decorated-background adsk-eprivacy-decorated-background--flip
+            :name: adsk-eprivacy-alternate-display-controller
+
+            .. container::
+               :name: adsk-eprivacy-header-container
+
+               .. container::
+                  :name: adsk-eprivacy-page-logo
+
+                  |image70|
+
+               .. container:: adsk-eprivacy-generic-close-btn
+                  :name: adsk-eprivacy-header-generic-close-btn
+
+                  |image71|
+
+            .. container:: adsk-eprivacy-ph-page
+               :name: adsk-eprivacy-content-container
+
+               .. rubric:: Cookie preferences
+                  :name: adsk-eprivacy-page-title
+                  :class: adsk-eprivacy-restrain-content adsk-eprivacy-wd-mv-24
+
+               .. container::
+               adsk-eprivacy-wd-mb-16 adsk-eprivacy-restrain-content adsk-eprivacy-formatted-text-container
+                  :name: adsk-eprivacy-page-description
+
+                  Your privacy is important to us and so is an optimal
+                  experience. To help us customize information and build
+                  applications, we collect data about your use of this
+                  site.
+                  **May we collect and use your data?**
+
+                  Learn more about the `Third Party
+                  Services <https://www.instructables.com/HackerBox-Basics-Workshop/#>`__
+                  we use and our `Privacy
+                  Statement <https://www.instructables.com/HackerBox-Basics-Workshop/#>`__.
+
+               .. container:: adsk-eprivacy-wd-mv-24
+
+                  YES TO ALL
+                  NO TO ALL
+
+               .. container:: adsk-eprivacy-category-container
+
+                  .. container:: adsk-eprivacy-category-content
+
+                     .. rubric:: Strictly necessary – required for our
+                        site to work and to provide services to you
+                        :name: strictly-necessary-required-for-our-site-to-work-and-to-provide-services-to-you
+                        :class: adsk-eprivacy-wd-inline-icon adsk-eprivacy-wd-ma-0
+
+                     These cookies allow us to record your preferences
+                     or login information, respond to your requests or
+                     fulfill items in your shopping cart.
+
+                  .. container::
+                  adsk-eprivacy-category-selection-container
+
+                     .. container::
+                     adsk-eprivacy-wd-fe-radio adsk-eprivacy-category-radio-btn-container
+
+                        YES
+
+               .. container:: adsk-eprivacy-category-container
+
+                  .. container:: adsk-eprivacy-category-content
+
+                     .. rubric:: Improve your experience – allows us to
+                        show you what is relevant to you
+                        :name: improve-your-experience-allows-us-to-show-you-what-is-relevant-to-you
+                        :class: adsk-eprivacy-wd-inline-icon adsk-eprivacy-wd-ma-0
+
+                     These cookies enable us to provide enhanced
+                     functionality and personalization. They may be set
+                     by us or by third party providers whose services we
+                     use to deliver information and experiences tailored
+                     to you. If you do not allow these cookies, some or
+                     all of these services may not be available for you.
+
+                  .. container::
+                  adsk-eprivacy-category-selection-container
+
+                     .. container::
+                     adsk-eprivacy-wd-fe-radio adsk-eprivacy-category-radio-btn-container
+
+                        YES
+
+                     .. container::
+                     adsk-eprivacy-wd-fe-radio adsk-eprivacy-wd-mb-8 adsk-eprivacy-category-radio-btn-container
+
+                        NO
+
+               .. container:: adsk-eprivacy-category-container
+
+                  .. container:: adsk-eprivacy-category-content
+
+                     .. rubric:: Customize your advertising – permits us
+                        to offer targeted advertising to you
+                        :name: customize-your-advertising-permits-us-to-offer-targeted-advertising-to-you
+                        :class: adsk-eprivacy-wd-inline-icon adsk-eprivacy-wd-ma-0
+
+                     These cookies collect data about you based on your
+                     activities and interests in order to show you
+                     relevant ads and to track effectiveness. By
+                     collecting this data, the ads you see will be more
+                     tailored to your interests. If you do not allow
+                     these cookies, you will experience less targeted
+                     advertising.
+
+                  .. container::
+                  adsk-eprivacy-category-selection-container
+
+                     .. container::
+                     adsk-eprivacy-wd-fe-radio adsk-eprivacy-category-radio-btn-container
+
+                        YES
+
+                     .. container::
+                     adsk-eprivacy-wd-fe-radio adsk-eprivacy-wd-mb-8 adsk-eprivacy-category-radio-btn-container
+
+                        NO
+
+            .. container::
+            adsk-eprivacy-form-footer adsk-eprivacy-ph-page adsk-eprivacy-force-fixed-footer adsk-eprivacy-wd-pv-16
+               :name: adsk-eprivacy-form-footer-container
+
+               .. container::
+                  :name: adsk-eprivacy-continue-container
+
+                  CONTINUE TO SITE |image72|
+
+               .. container::
+                  :name: adsk-eprivacy-continue-disabled-container
+
+                  **To change your settings later, click Privacy
+                  Settings at the bottom of any page.**
+
+         .. container::
+            :name: adsk-eprivacy-vendor-lightbox
+
+            .. container:: adsk-eprivacy-vendor-close--trigger
+               :name: adsk-eprivacy-vendor-lightbox--background
+
+            .. container::
+               :name: adsk-eprivacy-vendor-container
+
+               .. container::
+                  :name: adsk-eprivacy-vendor-list-header
+
+                  .. container::
+                     :name: adsk-eprivacy-vendor-logo
+
+                     |image73|
+
+                  .. container:: adsk-eprivacy-vendor-close--trigger
+                     :name: adsk-eprivacy-vendor-close
+
+                     |image74|
+
+               .. container::
+                  :name: adsk-eprivacy-vendor-list-content
+
+                  .. container::
+                     :name: adsk-eprivacy-vendor-list-description
+
+                     .. container::
+                     adsk-eprivacy-wd-ph-16 adsk-eprivacy-wd-mv-16
+
+                        .. rubric:: THIRD PARTY SERVICES
+                           :name: third-party-services
+                           :class: adsk-eprivacy-restrain-content adsk-eprivacy-wd-mb-16 adsk-eprivacy-wd-pt-16
+
+                        .. container:: adsk-eprivacy-restrain-content
+
+                           Learn more about the Third-Party Services we
+                           use in each category, and how we use the data
+                           we collect from you online.
+
+                  .. container::
+                     :name: adsk-eprivacy-vendor-list
+
+                     .. container::
+                     adsk-eprivacy--section--toggleable adsk-eprivacy--section--toggleable-open
+
+                        .. container::
+                        adsk-eprivacy--section--toggleable--header
+
+                           .. container::
+                           adsk-eprivacy--section-header adsk-eprivacy--section-header-open
+
+                              .. container::
+                              adsk-eprivacy--section-header--content
+
+                                 .. container::
+                                 adsk-eprivacy--section-header--content--status adsk-eprivacy-inline-block
+
+                                    .. container::
+                                    adsk-eprivacy--section-header--hide-icon
+
+                                       .. image:: assets/60ed1744aa57839082459c248fce76757856a0b5.svgz
+                                          :class: icon-svg-hide-thick adsk-eprivacy-wd-icon adsk-eprivacy-wd-inline-icon--icon-small
+
+                                    .. container::
+                                    adsk-eprivacy--section-header--show-icon
+
+                                       .. image:: assets/0d416064408309cd76a6f7c53b288a9ee327b211.svgz
+                                          :class: icon-svg-show-thick adsk-eprivacy-wd-icon adsk-eprivacy-wd-inline-icon--icon-small
+
+                                 .. container::
+                                 adsk-eprivacy--section-header--content--title adsk-eprivacy-inline-block
+
+                                    .. rubric:: Strictly necessary –
+                                       required for our site to work and
+                                       to provide services to you
+                                       :name: strictly-necessary-required-for-our-site-to-work-and-to-provide-services-to-you-1
+                                       :class: adsk-eprivacy-wd-inline-icon adsk-eprivacy-wd-ma-0
+
+                              .. container::
+                              adsk-eprivacy--section-header--horizontal-rule
+
+                        .. container::
+                        adsk-eprivacy--section--toggleable--panel adsk-eprivacy-wd-ph-12
+
+                           .. container::
+                           adsk-eprivacy-section adsk-eprivacy-wd-ph-16 adsk-eprivacy-wd-pb-4
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Qualtrics**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Qualtrics to let you give us
+                                    feedback via surveys or online
+                                    forms. You may be randomly selected
+                                    to participate in a survey, or you
+                                    can actively decide to give us
+                                    feedback. We collect data to better
+                                    understand what actions you took
+                                    before filling out a survey. This
+                                    helps us troubleshoot issues you may
+                                    have experienced. `Qualtrics Privacy
+                                    Policy <https://www.qualtrics.com/privacy-statement/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Akamai mPulse**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Akamai mPulse to collect data
+                                    about your behavior on our sites.
+                                    This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, and your Autodesk ID. We
+                                    use this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales. `Akamai
+                                    mPulse Privacy
+                                    Policy <https://www.akamai.com/us/en/about/compliance/data-protection-at-akamai.jsp>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Digital River**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Digital River to collect data
+                                    about your behavior on our sites.
+                                    This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, and your Autodesk ID. We
+                                    use this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales.
+                                    `Digital River Privacy
+                                    Policy <https://www.digitalriver.com/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Dynatrace**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Dynatrace to collect data
+                                    about your behavior on our sites.
+                                    This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, and your Autodesk ID. We
+                                    use this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales.
+                                    `Dynatrace Privacy
+                                    Policy <https://www.dynatrace.com/company/trust-center/privacy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Khoros**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Khoros to collect data about
+                                    your behavior on our sites. This may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, your
+                                    IP address or device ID, and your
+                                    Autodesk ID. We use this data to
+                                    measure our site performance and
+                                    evaluate the ease of your online
+                                    experience, so we can enhance our
+                                    features. We also use advanced
+                                    analytics methods to optimize your
+                                    experience with email, customer
+                                    support, and sales. `Khoros Privacy
+                                    Policy <https://khoros.com/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Launch Darkly**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Launch Darkly to collect data
+                                    about your behavior on our sites.
+                                    This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, and your Autodesk ID. We
+                                    use this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales. `Launch
+                                    Darkly Privacy
+                                    Policy <https://launchdarkly.com/policies/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **New Relic**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use New Relic to collect data
+                                    about your behavior on our sites.
+                                    This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, and your Autodesk ID. We
+                                    use this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales. `New
+                                    Relic Privacy
+                                    Policy <https://newrelic.com/termsandconditions/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Salesforce Live Agent**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Salesforce Live Agent to
+                                    collect data about your behavior on
+                                    our sites. This may include pages
+                                    you’ve visited, trials you’ve
+                                    initiated, videos you’ve played,
+                                    purchases you’ve made, your IP
+                                    address or device ID, and your
+                                    Autodesk ID. We use this data to
+                                    measure our site performance and
+                                    evaluate the ease of your online
+                                    experience, so we can enhance our
+                                    features. We also use advanced
+                                    analytics methods to optimize your
+                                    experience with email, customer
+                                    support, and sales. `Salesforce Live
+                                    Agent Privacy
+                                    Policy <https://www.salesforce.com/company/privacy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Wistia**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Wistia to collect data about
+                                    your behavior on our sites. This may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, your
+                                    IP address or device ID, and your
+                                    Autodesk ID. We use this data to
+                                    measure our site performance and
+                                    evaluate the ease of your online
+                                    experience, so we can enhance our
+                                    features. We also use advanced
+                                    analytics methods to optimize your
+                                    experience with email, customer
+                                    support, and sales. `Wistia Privacy
+                                    Policy <https://wistia.com/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Tealium**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Tealium to collect data about
+                                    your behavior on our sites. This may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. We use
+                                    this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales.
+                                    `Tealium Privacy
+                                    Policy <https://tealium.com/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Upsellit**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Upsellit to collect data
+                                    about your behavior on our sites.
+                                    This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, and your IP address or
+                                    device ID. We use this data to
+                                    measure our site performance and
+                                    evaluate the ease of your online
+                                    experience, so we can enhance our
+                                    features. We also use advanced
+                                    analytics methods to optimize your
+                                    experience with email, customer
+                                    support, and sales. `Upsellit
+                                    Privacy
+                                    Policy <https://labs.upsellit.com/privacy-policy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **CJ Affiliates**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use CJ Affiliates to collect data
+                                    about your behavior on our sites.
+                                    This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, and your IP address or
+                                    device ID. We use this data to
+                                    measure our site performance and
+                                    evaluate the ease of your online
+                                    experience, so we can enhance our
+                                    features. We also use advanced
+                                    analytics methods to optimize your
+                                    experience with email, customer
+                                    support, and sales. `CJ Affiliates
+                                    Privacy
+                                    Policy <https://www.conversantmedia.com/legal/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Commission Factory**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Commission Factory to collect
+                                    data about your behavior on our
+                                    sites. This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, and your IP address or
+                                    device ID. We use this data to
+                                    measure our site performance and
+                                    evaluate the ease of your online
+                                    experience, so we can enhance our
+                                    features. We also use advanced
+                                    analytics methods to optimize your
+                                    experience with email, customer
+                                    support, and sales. `Commission
+                                    Factory Privacy
+                                    Policy <https://www.commissionfactory.com/privacy-policy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Google Analytics (Strictly
+                                 Necessary)**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Google Analytics (Strictly
+                                    Necessary) to collect data about
+                                    your behavior on our sites. This may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, your
+                                    IP address or device ID, and your
+                                    Autodesk ID. We use this data to
+                                    measure our site performance and
+                                    evaluate the ease of your online
+                                    experience, so we can enhance our
+                                    features. We also use advanced
+                                    analytics methods to optimize your
+                                    experience with email, customer
+                                    support, and sales. `Google
+                                    Analytics (Strictly Necessary)
+                                    Privacy
+                                    Policy <https://policies.google.com/privacy?gl=US&hl=en>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Typepad Stats**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Typepad Stats to collect data
+                                    about your behaviour on our sites.
+                                    This may include pages you’ve
+                                    visited. We use this data to measure
+                                    our site performance and evaluate
+                                    the ease of your online experience,
+                                    so we can enhance our platform to
+                                    provide the most relevant content.
+                                    This allows us to enhance your
+                                    overall user experience. `Typepad
+                                    Stats Privacy
+                                    Policy <https://www.endurance.com/privacy/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Geo Targetly**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Geo Targetly to direct
+                                    website visitors to the most
+                                    appropriate web page and/or serve
+                                    tailored content based on their
+                                    location. Geo Targetly uses the IP
+                                    address of a website visitor to
+                                    determine the approximate location
+                                    of the visitor’s device. This helps
+                                    ensure that the visitor views
+                                    content in their (most likely) local
+                                    language.\ `Geo Targetly Privacy
+                                    Policy <https://geotargetly.com/privacy-policy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **SpeedCurve**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use SpeedCurve to monitor and
+                                    measure the performance of your
+                                    website experience by measuring web
+                                    page load times as well as the
+                                    responsiveness of subsequent
+                                    elements such as images, scripts,
+                                    and text.\ `SpeedCurve Privacy
+                                    Policy <https://www.speedcurve.com/terms/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Qualified**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    Qualified is the Autodesk Live Chat
+                                    agent platform. This platform
+                                    provides services to allow our
+                                    customers to communicate in
+                                    real-time with Autodesk support. We
+                                    may collect unique ID for specific
+                                    browser sessions during a chat.
+                                    `Qualified Privacy
+                                    Policy <https://www.qualified.com/legal/privacy>`__
+
+                     .. container::
+                     adsk-eprivacy--section--toggleable adsk-eprivacy-
+
+                        .. container::
+                        adsk-eprivacy--section--toggleable--header
+
+                           .. container::
+                           adsk-eprivacy--section-header adsk-eprivacy-
+
+                              .. container::
+                              adsk-eprivacy--section-header--content
+
+                                 .. container::
+                                 adsk-eprivacy--section-header--content--status adsk-eprivacy-inline-block
+
+                                    .. container::
+                                    adsk-eprivacy--section-header--hide-icon
+
+                                       .. image:: assets/60ed1744aa57839082459c248fce76757856a0b5.svgz
+                                          :class: icon-svg-hide-thick adsk-eprivacy-wd-icon adsk-eprivacy-wd-inline-icon--icon-small
+
+                                    .. container::
+                                    adsk-eprivacy--section-header--show-icon
+
+                                       .. image:: assets/0d416064408309cd76a6f7c53b288a9ee327b211.svgz
+                                          :class: icon-svg-show-thick adsk-eprivacy-wd-icon adsk-eprivacy-wd-inline-icon--icon-small
+
+                                 .. container::
+                                 adsk-eprivacy--section-header--content--title adsk-eprivacy-inline-block
+
+                                    .. rubric:: Improve your experience
+                                       – allows us to show you what is
+                                       relevant to you
+                                       :name: improve-your-experience-allows-us-to-show-you-what-is-relevant-to-you-1
+                                       :class: adsk-eprivacy-wd-inline-icon adsk-eprivacy-wd-ma-0
+
+                              .. container::
+                              adsk-eprivacy--section-header--horizontal-rule
+
+                        .. container::
+                        adsk-eprivacy--section--toggleable--panel adsk-eprivacy-wd-ph-12
+
+                           .. container::
+                           adsk-eprivacy-section adsk-eprivacy-wd-ph-16 adsk-eprivacy-wd-pb-4
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Google Optimize**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Google Optimize to test new
+                                    features on our sites and customize
+                                    your experience of these features.
+                                    To do this, we collect behavioral
+                                    data while you’re on our sites. This
+                                    data may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, your Autodesk ID, and
+                                    others. You may experience a
+                                    different version of our sites based
+                                    on feature testing, or view
+                                    personalized content based on your
+                                    visitor attributes. `Google Optimize
+                                    Privacy
+                                    Policy <https://policies.google.com/privacy?gl=US%26hl=en>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **ClickTale**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use ClickTale to better
+                                    understand where you may encounter
+                                    difficulties with our sites. We use
+                                    session recording to help us see how
+                                    you interact with our sites,
+                                    including any elements on our pages.
+                                    Your Personally Identifiable
+                                    Information is masked and is not
+                                    collected. `ClickTale Privacy
+                                    Policy <https://contentsquare.com/privacy-center/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **OneSignal**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use OneSignal to deploy digital
+                                    advertising on sites supported by
+                                    OneSignal. Ads are based on both
+                                    OneSignal data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that OneSignal has collected
+                                    from you. We use the data that we
+                                    provide to OneSignal to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `OneSignal Privacy
+                                    Policy <https://onesignal.com/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Optimizely**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Optimizely to test new
+                                    features on our sites and customize
+                                    your experience of these features.
+                                    To do this, we collect behavioral
+                                    data while you’re on our sites. This
+                                    data may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, your Autodesk ID, and
+                                    others. You may experience a
+                                    different version of our sites based
+                                    on feature testing, or view
+                                    personalized content based on your
+                                    visitor attributes. `Optimizely
+                                    Privacy
+                                    Policy <https://www.optimizely.com/privacy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Amplitude**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Amplitude to test new
+                                    features on our sites and customize
+                                    your experience of these features.
+                                    To do this, we collect behavioral
+                                    data while you’re on our sites. This
+                                    data may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, your Autodesk ID, and
+                                    others. You may experience a
+                                    different version of our sites based
+                                    on feature testing, or view
+                                    personalized content based on your
+                                    visitor attributes. `Amplitude
+                                    Privacy
+                                    Policy <https://amplitude.com/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Snowplow**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Snowplow to collect data
+                                    about your behavior on our sites.
+                                    This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, and your Autodesk ID. We
+                                    use this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales.
+                                    `Snowplow Privacy
+                                    Policy <https://snowplowanalytics.com/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **UserVoice**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use UserVoice to collect data
+                                    about your behaviour on our sites.
+                                    This may include pages you’ve
+                                    visited. We use this data to measure
+                                    our site performance and evaluate
+                                    the ease of your online experience,
+                                    so we can enhance our platform to
+                                    provide the most relevant content.
+                                    This allows us to enhance your
+                                    overall user experience. `UserVoice
+                                    Privacy
+                                    Policy <https://www.uservoice.com/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Clearbit**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    Clearbit allows real-time data
+                                    enrichment to provide a personalized
+                                    and relevant experience to our
+                                    customers. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device
+                                    ID.\ `Clearbit Privacy
+                                    Policy <https://clearbit.com/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **YouTube**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    YouTube is a video sharing platform
+                                    which allows users to view and share
+                                    embedded videos on our websites.
+                                    YouTube provides viewership metrics
+                                    on video performance. `YouTube
+                                    Privacy
+                                    Policy <https://policies.google.com/privacy>`__
+
+                     .. container::
+                     adsk-eprivacy--section--toggleable adsk-eprivacy-
+
+                        .. container::
+                        adsk-eprivacy--section--toggleable--header
+
+                           .. container::
+                           adsk-eprivacy--section-header adsk-eprivacy-
+
+                              .. container::
+                              adsk-eprivacy--section-header--content
+
+                                 .. container::
+                                 adsk-eprivacy--section-header--content--status adsk-eprivacy-inline-block
+
+                                    .. container::
+                                    adsk-eprivacy--section-header--hide-icon
+
+                                       .. image:: assets/60ed1744aa57839082459c248fce76757856a0b5.svgz
+                                          :class: icon-svg-hide-thick adsk-eprivacy-wd-icon adsk-eprivacy-wd-inline-icon--icon-small
+
+                                    .. container::
+                                    adsk-eprivacy--section-header--show-icon
+
+                                       .. image:: assets/0d416064408309cd76a6f7c53b288a9ee327b211.svgz
+                                          :class: icon-svg-show-thick adsk-eprivacy-wd-icon adsk-eprivacy-wd-inline-icon--icon-small
+
+                                 .. container::
+                                 adsk-eprivacy--section-header--content--title adsk-eprivacy-inline-block
+
+                                    .. rubric:: Customize your
+                                       advertising – permits us to offer
+                                       targeted advertising to you
+                                       :name: customize-your-advertising-permits-us-to-offer-targeted-advertising-to-you-1
+                                       :class: adsk-eprivacy-wd-inline-icon adsk-eprivacy-wd-ma-0
+
+                              .. container::
+                              adsk-eprivacy--section-header--horizontal-rule
+
+                        .. container::
+                        adsk-eprivacy--section--toggleable--panel adsk-eprivacy-wd-ph-12
+
+                           .. container::
+                           adsk-eprivacy-section adsk-eprivacy-wd-ph-16 adsk-eprivacy-wd-pb-4
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Adobe Analytics**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Adobe Analytics to collect
+                                    data about your behavior on our
+                                    sites. This may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, and your Autodesk ID. We
+                                    use this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales. `Adobe
+                                    Analytics Privacy
+                                    Policy <https://www.adobe.com/privacy/policy.html>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Google Analytics (Web Analytics)**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Google Analytics (Web
+                                    Analytics) to collect data about
+                                    your behavior on our sites. This may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. We use
+                                    this data to measure our site
+                                    performance and evaluate the ease of
+                                    your online experience, so we can
+                                    enhance our features. We also use
+                                    advanced analytics methods to
+                                    optimize your experience with email,
+                                    customer support, and sales. `Google
+                                    Analytics (Web Analytics) Privacy
+                                    Policy <https://policies.google.com/privacy?hl=en>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **AdWords**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use AdWords to deploy digital
+                                    advertising on sites supported by
+                                    AdWords. Ads are based on both
+                                    AdWords data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that AdWords has collected from
+                                    you. We use the data that we provide
+                                    to AdWords to better customize your
+                                    digital advertising experience and
+                                    present you with more relevant ads.
+                                    `AdWords Privacy
+                                    Policy <https://policies.google.com/privacy?hl=en>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Marketo**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Marketo to send you more
+                                    timely and relevant email content.
+                                    To do this, we collect data about
+                                    your online behavior and your
+                                    interaction with the emails we send.
+                                    Data collected may include pages
+                                    you’ve visited, trials you’ve
+                                    initiated, videos you’ve played,
+                                    purchases you’ve made, your IP
+                                    address or device ID, email open
+                                    rates, links clicked, and others. We
+                                    may combine this data with data
+                                    collected from other sources to
+                                    offer you improved sales or customer
+                                    service experiences, as well as more
+                                    relevant content based on advanced
+                                    analytics processing. `Marketo
+                                    Privacy
+                                    Policy <https://documents.marketo.com/legal/privacy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Doubleclick**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Doubleclick to deploy digital
+                                    advertising on sites supported by
+                                    Doubleclick. Ads are based on both
+                                    Doubleclick data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Doubleclick has collected
+                                    from you. We use the data that we
+                                    provide to Doubleclick to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `Doubleclick Privacy
+                                    Policy <https://policies.google.com/privacy?hl=en>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **HubSpot**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use HubSpot to send you more
+                                    timely and relevant email content.
+                                    To do this, we collect data about
+                                    your online behavior and your
+                                    interaction with the emails we send.
+                                    Data collected may include pages
+                                    you’ve visited, trials you’ve
+                                    initiated, videos you’ve played,
+                                    purchases you’ve made, your IP
+                                    address or device ID, email open
+                                    rates, links clicked, and others.
+                                    `HubSpot Privacy
+                                    Policy <https://legal.hubspot.com/privacy-policy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Twitter**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Twitter to deploy digital
+                                    advertising on sites supported by
+                                    Twitter. Ads are based on both
+                                    Twitter data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Twitter has collected from
+                                    you. We use the data that we provide
+                                    to Twitter to better customize your
+                                    digital advertising experience and
+                                    present you with more relevant ads.
+                                    `Twitter Privacy
+                                    Policy <https://twitter.com/en/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Facebook**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Facebook to deploy digital
+                                    advertising on sites supported by
+                                    Facebook. Ads are based on both
+                                    Facebook data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Facebook has collected
+                                    from you. We use the data that we
+                                    provide to Facebook to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `Facebook Privacy
+                                    Policy <https://www.facebook.com/privacy/explanation>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **LinkedIn**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use LinkedIn to deploy digital
+                                    advertising on sites supported by
+                                    LinkedIn. Ads are based on both
+                                    LinkedIn data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that LinkedIn has collected
+                                    from you. We use the data that we
+                                    provide to LinkedIn to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `LinkedIn Privacy
+                                    Policy <https://www.linkedin.com/legal/privacy-policy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Yahoo! Japan**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Yahoo! Japan to deploy
+                                    digital advertising on sites
+                                    supported by Yahoo! Japan. Ads are
+                                    based on both Yahoo! Japan data and
+                                    behavioral data that we collect
+                                    while you’re on our sites. The data
+                                    we collect may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, and your IP address or
+                                    device ID. This information may be
+                                    combined with data that Yahoo! Japan
+                                    has collected from you. We use the
+                                    data that we provide to Yahoo! Japan
+                                    to better customize your digital
+                                    advertising experience and present
+                                    you with more relevant ads. `Yahoo!
+                                    Japan Privacy
+                                    Policy <https://privacy.yahoo.co.jp/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Naver**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Naver to deploy digital
+                                    advertising on sites supported by
+                                    Naver. Ads are based on both Naver
+                                    data and behavioral data that we
+                                    collect while you’re on our sites.
+                                    The data we collect may include
+                                    pages you’ve visited, trials you’ve
+                                    initiated, videos you’ve played,
+                                    purchases you’ve made, and your IP
+                                    address or device ID. This
+                                    information may be combined with
+                                    data that Naver has collected from
+                                    you. We use the data that we provide
+                                    to Naver to better customize your
+                                    digital advertising experience and
+                                    present you with more relevant ads.
+                                    `Naver Privacy
+                                    Policy <https://policy.naver.com/policy/privacy.html>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Quantcast**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Quantcast to deploy digital
+                                    advertising on sites supported by
+                                    Quantcast. Ads are based on both
+                                    Quantcast data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Quantcast has collected
+                                    from you. We use the data that we
+                                    provide to Quantcast to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `Quantcast Privacy
+                                    Policy <https://policies.google.com/privacy?hl=en>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Call Tracking**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Call Tracking to provide
+                                    customized phone numbers for our
+                                    campaigns. This gives you faster
+                                    access to our agents and helps us
+                                    more accurately evaluate our
+                                    performance. We may collect data
+                                    about your behavior on our sites
+                                    based on the phone number provided.
+                                    `Call Tracking Privacy
+                                    Policy <https://www.calltrackingmetrics.com/legal/privacy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Wunderkind**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Wunderkind to deploy digital
+                                    advertising on sites supported by
+                                    Wunderkind. Ads are based on both
+                                    Wunderkind data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Wunderkind has collected
+                                    from you. We use the data that we
+                                    provide to Wunderkind to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `Wunderkind Privacy
+                                    Policy <https://www.wunderkind.co/privacy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **ADC Media**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use ADC Media to deploy digital
+                                    advertising on sites supported by
+                                    ADC Media. Ads are based on both ADC
+                                    Media data and behavioral data that
+                                    we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that ADC Media has collected
+                                    from you. We use the data that we
+                                    provide to ADC Media to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `ADC Media Privacy
+                                    Policy <https://www.adc-media.co/privacy-policy1611347002142>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **AgrantSEM**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use AgrantSEM to deploy digital
+                                    advertising on sites supported by
+                                    AgrantSEM. Ads are based on both
+                                    AgrantSEM data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that AgrantSEM has collected
+                                    from you. We use the data that we
+                                    provide to AgrantSEM to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `AgrantSEM Privacy
+                                    Policy <https://www.wushuangkeji.cn/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Bidtellect**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Bidtellect to deploy digital
+                                    advertising on sites supported by
+                                    Bidtellect. Ads are based on both
+                                    Bidtellect data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Bidtellect has collected
+                                    from you. We use the data that we
+                                    provide to Bidtellect to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `Bidtellect Privacy
+                                    Policy <https://bidtellect.com/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Bing**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Bing to deploy digital
+                                    advertising on sites supported by
+                                    Bing. Ads are based on both Bing
+                                    data and behavioral data that we
+                                    collect while you’re on our sites.
+                                    The data we collect may include
+                                    pages you’ve visited, trials you’ve
+                                    initiated, videos you’ve played,
+                                    purchases you’ve made, and your IP
+                                    address or device ID. This
+                                    information may be combined with
+                                    data that Bing has collected from
+                                    you. We use the data that we provide
+                                    to Bing to better customize your
+                                    digital advertising experience and
+                                    present you with more relevant ads.
+                                    `Bing Privacy
+                                    Policy <https://privacy.microsoft.com/en-us/privacystatement>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **G2Crowd**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use G2Crowd to deploy digital
+                                    advertising on sites supported by
+                                    G2Crowd. Ads are based on both
+                                    G2Crowd data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that G2Crowd has collected from
+                                    you. We use the data that we provide
+                                    to G2Crowd to better customize your
+                                    digital advertising experience and
+                                    present you with more relevant ads.
+                                    `G2Crowd Privacy
+                                    Policy <https://www.g2.com/static/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **NMPI Display**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use NMPI Display to deploy
+                                    digital advertising on sites
+                                    supported by NMPI Display. Ads are
+                                    based on both NMPI Display data and
+                                    behavioral data that we collect
+                                    while you’re on our sites. The data
+                                    we collect may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, and your IP address or
+                                    device ID. This information may be
+                                    combined with data that NMPI Display
+                                    has collected from you. We use the
+                                    data that we provide to NMPI Display
+                                    to better customize your digital
+                                    advertising experience and present
+                                    you with more relevant ads. `NMPI
+                                    Display Privacy
+                                    Policy <https://nmpidigital.com/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **VK**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use VK to deploy digital
+                                    advertising on sites supported by
+                                    VK. Ads are based on both VK data
+                                    and behavioral data that we collect
+                                    while you’re on our sites. The data
+                                    we collect may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, and your IP address or
+                                    device ID. This information may be
+                                    combined with data that VK has
+                                    collected from you. We use the data
+                                    that we provide to VK to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `VK Privacy
+                                    Policy <https://vk.com/data_protection>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Adobe Target**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Adobe Target to test new
+                                    features on our sites and customize
+                                    your experience of these features.
+                                    To do this, we collect behavioral
+                                    data while you’re on our sites. This
+                                    data may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, your IP address or
+                                    device ID, your Autodesk ID, and
+                                    others. You may experience a
+                                    different version of our sites based
+                                    on feature testing, or view
+                                    personalized content based on your
+                                    visitor attributes. `Adobe Target
+                                    Privacy
+                                    Policy <https://www.adobe.com/privacy/policy.html>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Google Analytics (Advertising)**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Google Analytics
+                                    (Advertising) to deploy digital
+                                    advertising on sites supported by
+                                    Google Analytics (Advertising). Ads
+                                    are based on both Google Analytics
+                                    (Advertising) data and behavioral
+                                    data that we collect while you’re on
+                                    our sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Google Analytics
+                                    (Advertising) has collected from
+                                    you. We use the data that we provide
+                                    to Google Analytics (Advertising) to
+                                    better customize your digital
+                                    advertising experience and present
+                                    you with more relevant ads. `Google
+                                    Analytics (Advertising) Privacy
+                                    Policy <https://policies.google.com/privacy?hl=en>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Trendkite**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Trendkite to deploy digital
+                                    advertising on sites supported by
+                                    Trendkite. Ads are based on both
+                                    Trendkite data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Trendkite has collected
+                                    from you. We use the data that we
+                                    provide to Trendkite to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `Trendkite Privacy
+                                    Policy <https://www.cision.com/legal/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Hotjar**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Hotjar to deploy digital
+                                    advertising on sites supported by
+                                    Hotjar. Ads are based on both Hotjar
+                                    data and behavioral data that we
+                                    collect while you’re on our sites.
+                                    The data we collect may include
+                                    pages you’ve visited, trials you’ve
+                                    initiated, videos you’ve played,
+                                    purchases you’ve made, and your IP
+                                    address or device ID. This
+                                    information may be combined with
+                                    data that Hotjar has collected from
+                                    you. We use the data that we provide
+                                    to Hotjar to better customize your
+                                    digital advertising experience and
+                                    present you with more relevant ads.
+                                    `Hotjar Privacy
+                                    Policy <https://policies.google.com/privacy?hl=en>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **6 Sense**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use 6 Sense to deploy digital
+                                    advertising on sites supported by 6
+                                    Sense. Ads are based on both 6 Sense
+                                    data and behavioral data that we
+                                    collect while you’re on our sites.
+                                    The data we collect may include
+                                    pages you’ve visited, trials you’ve
+                                    initiated, videos you’ve played,
+                                    purchases you’ve made, and your IP
+                                    address or device ID. This
+                                    information may be combined with
+                                    data that 6 Sense has collected from
+                                    you. We use the data that we provide
+                                    to 6 Sense to better customize your
+                                    digital advertising experience and
+                                    present you with more relevant ads.
+                                    `6 Sense Privacy
+                                    Policy <https://6sense.com/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **Terminus**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use Terminus to deploy digital
+                                    advertising on sites supported by
+                                    Terminus. Ads are based on both
+                                    Terminus data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that Terminus has collected
+                                    from you. We use the data that we
+                                    provide to Terminus to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `Terminus Privacy
+                                    Policy <https://terminus.com/privacy-policy/>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **StackAdapt**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use StackAdapt to deploy digital
+                                    advertising on sites supported by
+                                    StackAdapt. Ads are based on both
+                                    StackAdapt data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that StackAdapt has collected
+                                    from you. We use the data that we
+                                    provide to StackAdapt to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `StackAdapt Privacy
+                                    Policy <https://www.stackadapt.com/privacy-policy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **The Trade Desk**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use The Trade Desk to deploy
+                                    digital advertising on sites
+                                    supported by The Trade Desk. Ads are
+                                    based on both The Trade Desk data
+                                    and behavioral data that we collect
+                                    while you’re on our sites. The data
+                                    we collect may include pages you’ve
+                                    visited, trials you’ve initiated,
+                                    videos you’ve played, purchases
+                                    you’ve made, and your IP address or
+                                    device ID. This information may be
+                                    combined with data that The Trade
+                                    Desk has collected from you. We use
+                                    the data that we provide to The
+                                    Trade Desk to better customize your
+                                    digital advertising experience and
+                                    present you with more relevant ads.
+                                    `The Trade Desk Privacy
+                                    Policy <https://www.thetradedesk.com/us/privacy>`__
+
+                              .. container::
+                              adsk-eprivacy-vendor adsk-eprivacy-wd-mb-16
+
+                                 **RollWorks**
+
+                                 .. container::
+                                 adsk-eprivacy-restrain-content
+
+                                    We use RollWorks to deploy digital
+                                    advertising on sites supported by
+                                    RollWorks. Ads are based on both
+                                    RollWorks data and behavioral data
+                                    that we collect while you’re on our
+                                    sites. The data we collect may
+                                    include pages you’ve visited, trials
+                                    you’ve initiated, videos you’ve
+                                    played, purchases you’ve made, and
+                                    your IP address or device ID. This
+                                    information may be combined with
+                                    data that RollWorks has collected
+                                    from you. We use the data that we
+                                    provide to RollWorks to better
+                                    customize your digital advertising
+                                    experience and present you with more
+                                    relevant ads. `RollWorks Privacy
+                                    Policy <https://www.nextroll.com/privacy>`__
+
+         .. container::
+            :name: adsk-eprivacy-confirm-exit-dialog
+
+            .. container:: adsk-eprivacy-ph-page
+               :name: adsk-eprivacy-confirm-exit-header
+
+               .. container::
+                  :name: adsk-eprivacy-confirm-exit-logo
+
+                  |image75|
+
+            .. container:: adsk-eprivacy-ph-page
+               :name: adsk-eprivacy-confirm-exit-content-container
+
+               .. container::
+                  :name: adsk-eprivacy-confirm-exit-content
+
+                  .. container::
+
+                     .. rubric:: Are you sure you want a less customized
+                        experience?
+                        :name: adsk-eprivacy-confirm-exit-title
+                        :class: adsk-eprivacy-wd-mb-16 adsk-eprivacy-wd-pt-16
+
+                     .. container:: adsk-eprivacy-wd-mb-24
+                        :name: adsk-eprivacy-confirm-exit-body
+
+                        We can access your data only if you select "yes"
+                        for the categories on the previous screen. This
+                        lets us tailor our marketing so that it's more
+                        relevant for you. You can change your settings
+                        at any time by visiting our `privacy
+                        statement <https://www.instructables.com/HackerBox-Basics-Workshop/#>`__
+
+                     Review settings |image76|
+
+                  .. container::
+                     :name: adsk-eprivacy-toggleable-continue-btn
+
+                     CONTINUE TO SITE |image77|
+
+         |image78|
+
+         .. container::
+         adsk-eprivacy-slim-notification-display-container adsk-eprivacy-decorated-background
+            :name: adsk-eprivacy-slim-notification-display-container
+
+            .. container:: adsk-eprivacy-slim-notification-display
+
+               .. container:: adsk-eprivacy-ph-page
+                  :name: adsk-eprivacy-header-container-slim
+
+                  .. container::
+                     :name: adsk-eprivacy-slim-page-logo
+
+                     |image79|
+
+               .. container:: adsk-eprivacy-ph-page
+                  :name: adsk-eprivacy-slim-notification-display-body
+
+                  .. container::
+                     :name: adsk-eprivacy-slim-notification-display-body-content
+
+                     .. rubric:: Your experience. Your choice.
+                        :name: your-experience.-your-choice.
+                        :class: adsk-eprivacy-restrain-content adsk-eprivacy-wd-mv-24
+
+                     .. container::
+                     adsk-eprivacy-slim-notification-display-content adsk-eprivacy-formatted-text-container adsk-eprivacy-restrain-content
+
+                        We care about your privacy. The data we collect
+                        helps us understand how you use our products,
+                        what information you might be interested in, and
+                        what we can improve to make your engagement with
+                        Autodesk more rewarding.
+                        **May we collect and use your data to tailor
+                        your experience?**
+
+                        Explore the benefits of a customized experience
+                        by managing your `privacy
+                        settings <https://www.instructables.com/HackerBox-Basics-Workshop/#>`__
+                        for this site or visit our `Privacy
+                        Statement <https://www.instructables.com/HackerBox-Basics-Workshop/#>`__
+                        to learn more about your options.
+
+               .. container::
+               adsk-eprivacy-form-footer adsk-eprivacy-slim-button-display adsk-eprivacy-wd-pv-24
+
+                  YES |image80|
+                  Decline |image81|
+
+.. |license| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/by-nc-sa_small.png
+.. |HackerBox Basics Workshop| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FIZJJI5KXBU1CTG.png
    :target: https://content.instructables.com/FIZ/JJI5/KXBU1CTG/FIZJJI5KXBU1CTG.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNDoyMi4w
-.. |image1| image:: https://content.instructables.com/FIZ/JJI5/KXBU1CTG/FIZJJI5KXBU1CTG.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Solderless Breadboards| image:: https://content.instructables.com/F4O/QKFK/KXBU1CTX/F4OQKFKKXBU1CTX.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNDo1NC4w
+.. |image1| image:: assets/4d9f93129e46a4307c203f2f4d63dfd54fc47695.png
+.. |Solderless Breadboards| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F4OQKFKKXBU1CTX.png
    :target: https://content.instructables.com/F4O/QKFK/KXBU1CTX/F4OQKFKKXBU1CTX.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNDo1NC4w
-.. |image2| image:: https://content.instructables.com/F4O/QKFK/KXBU1CTX/F4OQKFKKXBU1CTX.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Electron Flow| image:: https://content.instructables.com/F1K/ZK1F/KXBU1CV3/F1KZK1FKXBU1CV3.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNjo0NS4w
+.. |image2| image:: assets/9296d437808f0dfb19177e845cdc4c75c0ffbff6.png
+.. |Electron Flow| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F1KZK1FKXBU1CV3.png
    :target: https://content.instructables.com/F1K/ZK1F/KXBU1CV3/F1KZK1FKXBU1CV3.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNjo0NS4w
-.. |image3| image:: https://content.instructables.com/F1K/ZK1F/KXBU1CV3/F1KZK1FKXBU1CV3.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Control Electron Flow With a Switch| image:: https://content.instructables.com/FBW/1FPI/KXBU1CUX/FBW1FPIKXBU1CUX.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNjozMi4w
+.. |image3| image:: assets/800f562bff3eb4567ccf5535104af227679a1a1f.png
+.. |Control Electron Flow With a Switch| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FBW1FPIKXBU1CUX.png
    :target: https://content.instructables.com/FBW/1FPI/KXBU1CUX/FBW1FPIKXBU1CUX.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNjozMi4w
-.. |image4| image:: https://content.instructables.com/FBW/1FPI/KXBU1CUX/FBW1FPIKXBU1CUX.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Control Electron Flow With a Pushbutton| image:: https://content.instructables.com/F92/VRAG/KXHJT1S9/F92VRAGKXHJT1S9.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0yMiAyMjoxMDo0Mi4w
+.. |image4| image:: assets/324a3b9ec3c553ae9f409ca3233a5808c3083fe5.png
+.. |Control Electron Flow With a Pushbutton| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F92VRAGKXHJT1S9.png
    :target: https://content.instructables.com/F92/VRAG/KXHJT1S9/F92VRAGKXHJT1S9.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0yMiAyMjoxMDo0Mi4w
-.. |image5| image:: https://content.instructables.com/F92/VRAG/KXHJT1S9/F92VRAGKXHJT1S9.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Microcontrollers| image:: https://content.instructables.com/FNE/96J1/KXBU1CVQ/FNE96J1KXBU1CVQ.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNzoxMy4w
+.. |image5| image:: assets/58db88cf404c4c96b8d5af3e91df8fb2d753830d.png
+.. |Microcontrollers| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FNE96J1KXBU1CVQ.png
    :target: https://content.instructables.com/FNE/96J1/KXBU1CVQ/FNE96J1KXBU1CVQ.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNzoxMy4w
-.. |image6| image:: https://content.instructables.com/FNE/96J1/KXBU1CVQ/FNE96J1KXBU1CVQ.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Set Up the Arduino Nano| image:: https://content.instructables.com/FW9/7ML1/KXBU1CWJ/FW97ML1KXBU1CWJ.png?auto=webp&frame=1&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNzo0Ni4w
-   :target: https://content.instructables.com/FW9/7ML1/KXBU1CWJ/FW97ML1KXBU1CWJ.png?auto=webp&frame=1&fit=bounds&md=MjAyMS0xMi0xOCAxNToyNzo0Ni4w
-.. |image7| image:: https://content.instructables.com/FW9/7ML1/KXBU1CWJ/FW97ML1KXBU1CWJ.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
-.. |Control Electron Flow With Program Code| image:: https://content.instructables.com/FR6/EC1U/KXBU1CXE/FR6EC1UKXBU1CXE.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0xOCAxNToyODowOS4w
+.. |image6| image:: assets/8a27ef916efdd2df26aed48e911b4567115ce03a.png
+.. |Set Up the Arduino Nano| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FW97ML1KXBU1CWJ.png
+   :target: ./HackerBox%20Basics%20Workshop%20_%2051%20Steps%20-%20Instructables_files/FW97ML1KXBU1CWJ.png
+.. |image7| image:: assets/dcb596890595a237b7cff1f7bb56ede37ef5e8c9.png
+.. |Control Electron Flow With Program Code| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FR6EC1UKXBU1CXE.png
    :target: https://content.instructables.com/FR6/EC1U/KXBU1CXE/FR6EC1UKXBU1CXE.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyODowOS4w
-.. |image8| image:: https://content.instructables.com/FR6/EC1U/KXBU1CXE/FR6EC1UKXBU1CXE.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Looping and Timers| image:: https://content.instructables.com/FUG/CBQK/KXBU1CYD/FUGCBQKKXBU1CYD.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0xOCAxNToyODozMC4w
+.. |image8| image:: assets/245ab72e2fc01269b793ff287f90e486318e9897.png
+.. |Looping and Timers| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FUGCBQKKXBU1CYD.png
    :target: https://content.instructables.com/FUG/CBQK/KXBU1CYD/FUGCBQKKXBU1CYD.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOCAxNToyODozMC4w
-.. |image9| image:: https://content.instructables.com/FUG/CBQK/KXBU1CYD/FUGCBQKKXBU1CYD.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Program Output to Serial Monitor| image:: https://content.instructables.com/FHX/ZTO8/KXD9GP3B/FHXZTO8KXD9GP3B.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0xOSAxODo1NDozOS4w
+.. |image9| image:: assets/8f6886937e39d295190acb412717a1cc64485b24.png
+.. |Program Output to Serial Monitor| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FHXZTO8KXD9GP3B.png
    :target: https://content.instructables.com/FHX/ZTO8/KXD9GP3B/FHXZTO8KXD9GP3B.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0xOSAxODo1NDozOS4w
-.. |image10| image:: https://content.instructables.com/FHX/ZTO8/KXD9GP3B/FHXZTO8KXD9GP3B.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Read Program Input From a Pushbutton| image:: https://content.instructables.com/F9D/MT4N/KXD9GLOJ/F9DMT4NKXD9GLOJ.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0xOSAxNjo0NDowNy4w
+.. |image10| image:: assets/28ddc571eebc881b67dccde1711439502fef3409.png
+.. |Read Program Input From a Pushbutton| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F9DMT4NKXD9GLOJ.png
    :target: https://content.instructables.com/F9D/MT4N/KXD9GLOJ/F9DMT4NKXD9GLOJ.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOSAxNjo0NDowNy4w
-.. |image11| image:: https://content.instructables.com/F9D/MT4N/KXD9GLOJ/F9DMT4NKXD9GLOJ.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |download {{ file.name }}| image:: /assets/img/pixel.png
-   :class: lazyload tiny-img
-.. |image12| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image11| image:: assets/1b53790d0cfe18f8e3c6b1a8ad06ee0f13bd6e28.png
+.. |download {{ file.name }}| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/file.default.gif
+   :class: tiny-img ls-is-cached lazyloaded
+.. |image12| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
    :class: tiny-img
-.. |Digital Vs. Analog| image:: https://content.instructables.com/F61/HQUT/KXD9GKP2/F61HQUTKXD9GKP2.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0xOSAxNTozMjo0MS4w
+.. |Digital Vs. Analog| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F61HQUTKXD9GKP2.png
    :target: https://content.instructables.com/F61/HQUT/KXD9GKP2/F61HQUTKXD9GKP2.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOSAxNTozMjo0MS4w
-.. |image13| image:: https://content.instructables.com/F61/HQUT/KXD9GKP2/F61HQUTKXD9GKP2.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Reading Analog Input From a Potentiometer| image:: https://content.instructables.com/FIR/MMYW/KXD9GLP8/FIRMMYWKXD9GLP8.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0xOSAxNjo0Njo0MS4w
+.. |image13| image:: assets/0bac341e3fe4261b529b6f687f98ed9cb583c3e4.png
+.. |Reading Analog Input From a Potentiometer| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FIRMMYWKXD9GLP8.png
    :target: https://content.instructables.com/FIR/MMYW/KXD9GLP8/FIRMMYWKXD9GLP8.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0xOSAxNjo0Njo0MS4w
-.. |image14| image:: https://content.instructables.com/FIR/MMYW/KXD9GLP8/FIRMMYWKXD9GLP8.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image15| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image14| image:: assets/8258e45637368e8109ec877ddcb87a4bb3ef2544.png
+.. |image15| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
    :class: tiny-img
-.. |Measuring Voltage| image:: https://content.instructables.com/FS8/ZGDB/KXUER3DM/FS8ZGDBKXUER3DM.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAwNzowNDo0Ni4w
+.. |Measuring Voltage| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FS8ZGDBKXUER3DM.png
    :target: https://content.instructables.com/FS8/ZGDB/KXUER3DM/FS8ZGDBKXUER3DM.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAwNzowNDo0Ni4w
-.. |image16| image:: https://content.instructables.com/FS8/ZGDB/KXUER3DM/FS8ZGDBKXUER3DM.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Voltage Dividers| image:: https://content.instructables.com/FSB/Q38J/KXUER7GY/FSBQ38JKXUER7GY.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyNzoxMC4w
-   :target: https://content.instructables.com/FSB/Q38J/KXUER7GY/FSBQ38JKXUER7GY.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyNzoxMC4w
-.. |image17| image:: https://content.instructables.com/FSB/Q38J/KXUER7GY/FSBQ38JKXUER7GY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Resistor Structures| image:: https://content.instructables.com/FSM/8PBJ/KXUER7D0/FSM8PBJKXUER7D0.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMTo1NTowNS4w
-   :target: https://content.instructables.com/FSM/8PBJ/KXUER7D0/FSM8PBJKXUER7D0.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMTo1NTowNS4w
-.. |image18| image:: https://content.instructables.com/FSM/8PBJ/KXUER7D0/FSM8PBJKXUER7D0.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Ohm's Law| image:: https://content.instructables.com/F8S/OXFE/KXUER7HY/F8SOXFEKXUER7HY.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyODowOS4w
-   :target: https://content.instructables.com/F8S/OXFE/KXUER7HY/F8SOXFEKXUER7HY.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyODowOS4w
-.. |image19| image:: https://content.instructables.com/F8S/OXFE/KXUER7HY/F8SOXFEKXUER7HY.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Adjusting Light Brightness| image:: https://content.instructables.com/FUN/6I6O/KXUER3W6/FUN6I6OKXUER3W6.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAwNzoxNzoxMC4w
-   :target: https://content.instructables.com/FUN/6I6O/KXUER3W6/FUN6I6OKXUER3W6.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAwNzoxNzoxMC4w
-.. |image20| image:: https://content.instructables.com/FUN/6I6O/KXUER3W6/FUN6I6OKXUER3W6.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image21| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img ls-is-cached lazyloaded
-.. |image22| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img
-.. |Light Sensors| image:: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMS0xMi0zMSAyMDozNDoxNy4w
-   :target: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAyMDozNDoxNy4w
-.. |image23| image:: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Temperature Sensors| image:: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0zMSAxODozMDowNS4w
-   :target: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAxODozMDowNS4w
-.. |image24| image:: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image25| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img ls-is-cached lazyloaded
-.. |image26| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img
-.. |Program Control Flow| image:: https://content.instructables.com/F60/AKI5/KXUER64L/F60AKI5KXUER64L.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMS0xMi0zMSAwODowNzowOS4w
-   :target: https://content.instructables.com/F60/AKI5/KXUER64L/F60AKI5KXUER64L.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAwODowNzowOS4w
-.. |image27| image:: https://content.instructables.com/F60/AKI5/KXUER64L/F60AKI5KXUER64L.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image28| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img lazyloaded
-.. |image29| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img
-.. |Storing Data in Arrays| image:: https://content.instructables.com/F3E/HNXA/KZLA6X38/F3EHNXAKZLA6X38.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTowMTowOS4w
-   :target: https://content.instructables.com/F3E/HNXA/KZLA6X38/F3EHNXAKZLA6X38.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTowMTowOS4w
-.. |image30| image:: https://content.instructables.com/F3E/HNXA/KZLA6X38/F3EHNXAKZLA6X38.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |image31| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img ls-is-cached lazyloaded
-.. |image32| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img
-.. |Generating Sound| image:: https://content.instructables.com/FD9/VRLF/KZLA6X5F/FD9VRLFKZLA6X5F.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMi0xMyAxOTowNDo1MS4w
-   :target: https://content.instructables.com/FD9/VRLF/KZLA6X5F/FD9VRLFKZLA6X5F.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTowNDo1MS4w
-.. |image33| image:: https://content.instructables.com/FD9/VRLF/KZLA6X5F/FD9VRLFKZLA6X5F.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image34| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img
-.. |Measuring Distance| image:: https://content.instructables.com/F6G/HRM2/KZLA6X9K/F6GHRM2KZLA6X9K.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMi0xMyAxOToyMjozOC4w
-   :target: https://content.instructables.com/F6G/HRM2/KZLA6X9K/F6GHRM2KZLA6X9K.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOToyMjozOC4w
-.. |image35| image:: https://content.instructables.com/F6G/HRM2/KZLA6X9K/F6GHRM2KZLA6X9K.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image36| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img
-.. |Electromechanical Motion| image:: https://content.instructables.com/FIK/K6WM/KZLA6XCI/FIKK6WMKZLA6XCI.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOToyNTowNC4w
-   :target: https://content.instructables.com/FIK/K6WM/KZLA6XCI/FIKK6WMKZLA6XCI.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOToyNTowNC4w
-.. |image37| image:: https://content.instructables.com/FIK/K6WM/KZLA6XCI/FIKK6WMKZLA6XCI.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Controlling Servo Motors| image:: https://content.instructables.com/FVT/4NVT/KZLA6XEC/FVT4NVTKZLA6XEC.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMi0xMyAxOTozMTozOC4w
-   :target: https://content.instructables.com/FVT/4NVT/KZLA6XEC/FVT4NVTKZLA6XEC.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTozMTozOC4w
-.. |image38| image:: https://content.instructables.com/FVT/4NVT/KZLA6XEC/FVT4NVTKZLA6XEC.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Displaying Graphics and Text| image:: https://content.instructables.com/FPN/QG2Z/KZTUSE0G/FPNQG2ZKZTUSE0G.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMi0wMi0xOSAxNTo0OTo1NS4w
-   :target: https://content.instructables.com/FPN/QG2Z/KZTUSE0G/FPNQG2ZKZTUSE0G.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xOSAxNTo0OTo1NS4w
-.. |image39| image:: https://content.instructables.com/FPN/QG2Z/KZTUSE0G/FPNQG2ZKZTUSE0G.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image40| image:: https://content.instructables.com/static/image/file.default.gif
-   :class: tiny-img
-.. |Full Color LEDs| image:: https://content.instructables.com/FQW/LN5S/KZY53FRY/FQWLN5SKZY53FRY.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMi0yMiAxNzoyMjo0NS4w
-   :target: https://content.instructables.com/FQW/LN5S/KZY53FRY/FQWLN5SKZY53FRY.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0yMiAxNzoyMjo0NS4w
-.. |image41| image:: https://content.instructables.com/FQW/LN5S/KZY53FRY/FQWLN5SKZY53FRY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image42| image:: /assets/img/pixel.png%0A%20%20%20%20%3Cdiv%20class=
+.. |image16| image:: assets/46ea150e3978d88d0ac6e7fcc87043225f92dcec.png
+.. |image17| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/pixel.png
    :class: lazyload tiny-img
-.. |Serial Addressable LEDs| image:: https://content.instructables.com/F5C/DZCY/L0XV4DP3/F5CDZCYL0XV4DP3.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0wMy0xOSAxNzoyNTo0My4w
+.. |image18| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Voltage Dividers| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FSBQ38JKXUER7GY.png
+   :target: https://content.instructables.com/FSB/Q38J/KXUER7GY/FSBQ38JKXUER7GY.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyNzoxMC4w
+.. |image19| image:: assets/120890e6f148aca9db2e785152bb1cecb9294c75.png
+.. |Resistor Structures| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FSM8PBJKXUER7D0.png
+   :target: https://content.instructables.com/FSM/8PBJ/KXUER7D0/FSM8PBJKXUER7D0.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMTo1NTowNS4w
+.. |image20| image:: assets/ffcfb1878c35e3cb3c68893e822bb6e0b10208e5.png
+.. |Ohm's Law| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F8SOXFEKXUER7HY.png
+   :target: https://content.instructables.com/F8S/OXFE/KXUER7HY/F8SOXFEKXUER7HY.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMS0xMi0zMSAxMjoyODowOS4w
+.. |image21| image:: assets/21be2dd66b232625f87411adf4784fa3f7c928b6.png
+.. |Adjusting Light Brightness| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FUN6I6OKXUER3W6.png
+   :target: https://content.instructables.com/FUN/6I6O/KXUER3W6/FUN6I6OKXUER3W6.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAwNzoxNzoxMC4w
+.. |image22| image:: assets/6e2e0c6c360515891ac09aa5be1336463cc4012f.png
+.. |image23| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/pixel.png
+   :class: lazyload tiny-img
+.. |image24| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Light Sensors| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FNQYF50KXUER8KD.png
+   :target: https://content.instructables.com/FNQ/YF50/KXUER8KD/FNQYF50KXUER8KD.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAyMDozNDoxNy4w
+.. |image25| image:: assets/d36c328748da6d1da0ab3fa183f9ee4885c929da.png
+.. |Temperature Sensors| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FVT0J63KXUER87V.png
+   :target: https://content.instructables.com/FVT/0J63/KXUER87V/FVT0J63KXUER87V.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAxODozMDowNS4w
+.. |image26| image:: assets/510e419112909cf5d4e10a436f73692de3e2e531.png
+.. |image27| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Program Control Flow| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F60AKI5KXUER64L.png
+   :target: https://content.instructables.com/F60/AKI5/KXUER64L/F60AKI5KXUER64L.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMS0xMi0zMSAwODowNzowOS4w
+.. |image28| image:: assets/a5ee726bfc6edfdefc6bc7e2893da8eb42aa0d70.png
+.. |image29| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Storing Data in Arrays| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F3EHNXAKZLA6X38.png
+   :target: https://content.instructables.com/F3E/HNXA/KZLA6X38/F3EHNXAKZLA6X38.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTowMTowOS4w
+.. |image30| image:: assets/74595308b0d7b5fc5f18379d55904bfa4341df3c.png
+.. |image31| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/pixel.png
+   :class: lazyload tiny-img
+.. |image32| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Generating Sound| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FD9VRLFKZLA6X5F.png
+   :target: https://content.instructables.com/FD9/VRLF/KZLA6X5F/FD9VRLFKZLA6X5F.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTowNDo1MS4w
+.. |image33| image:: assets/e2c03cab8bc2c76a8ca8e5ae1fdc613efccf2b28.png
+.. |image34| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Measuring Distance| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F6GHRM2KZLA6X9K.png
+   :target: https://content.instructables.com/F6G/HRM2/KZLA6X9K/F6GHRM2KZLA6X9K.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOToyMjozOC4w
+.. |image35| image:: assets/aa9654cf9a999c7e1caeffaaf8b8b2ff42c9d851.png
+.. |image36| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Electromechanical Motion| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FIKK6WMKZLA6XCI.png
+   :target: https://content.instructables.com/FIK/K6WM/KZLA6XCI/FIKK6WMKZLA6XCI.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOToyNTowNC4w
+.. |image37| image:: assets/de98caf8edf00ea9a33acb3a77f79fac31348f77.png
+.. |Controlling Servo Motors| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FVT4NVTKZLA6XEC.png
+   :target: https://content.instructables.com/FVT/4NVT/KZLA6XEC/FVT4NVTKZLA6XEC.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xMyAxOTozMTozOC4w
+.. |image38| image:: assets/cca4fe72e3724215641a7e19aa3e87811d48c2d5.png
+.. |Displaying Graphics and Text| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FPNQG2ZKZTUSE0G.png
+   :target: https://content.instructables.com/FPN/QG2Z/KZTUSE0G/FPNQG2ZKZTUSE0G.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0xOSAxNTo0OTo1NS4w
+.. |image39| image:: assets/82158615b56a7eeb87d0c55c765d30a75aca12ac.png
+.. |image40| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/pixel.png
+   :class: lazyload tiny-img
+.. |image41| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Full Color LEDs| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FQWLN5SKZY53FRY.png
+   :target: https://content.instructables.com/FQW/LN5S/KZY53FRY/FQWLN5SKZY53FRY.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMi0yMiAxNzoyMjo0NS4w
+.. |image42| image:: assets/fdb14a1125649b480dc93635086e26fb9ff721b2.png
+.. |image43| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
+   :class: tiny-img
+.. |Serial Addressable LEDs| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F5CDZCYL0XV4DP3.png
    :target: https://content.instructables.com/F5C/DZCY/L0XV4DP3/F5CDZCYL0XV4DP3.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0wMy0xOSAxNzoyNTo0My4w
-.. |image43| image:: https://content.instructables.com/F5C/DZCY/L0XV4DP3/F5CDZCYL0XV4DP3.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Measuring Capacitance| image:: https://content.instructables.com/FPD/WG46/L9SI9OKG/FPDWG46L9SI9OKG.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMi0xMC0yOCAxMjo1MjozNy4w
+.. |image44| image:: assets/2fbc940e42038ef3b718ddfa6aaafd044eadb0f7.png
+.. |Measuring Capacitance| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FPDWG46L9SI9OKG.png
    :target: https://content.instructables.com/FPD/WG46/L9SI9OKG/FPDWG46L9SI9OKG.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMi0xMC0yOCAxMjo1MjozNy4w
-.. |image44| image:: https://content.instructables.com/FPD/WG46/L9SI9OKG/FPDWG46L9SI9OKG.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |image45| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image45| image:: assets/ee1d262019282232079448c667cdaa1f6d7678bd.png
+.. |image46| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
    :class: tiny-img
-.. |Capacitor Structures| image:: https://content.instructables.com/FR4/LPRW/L9VD43SL/FR4LPRWL9VD43SL.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMi0xMC0zMCAwNzo1ODowNS4w
+.. |Capacitor Structures| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FR4LPRWL9VD43SL.png
    :target: https://content.instructables.com/FR4/LPRW/L9VD43SL/FR4LPRWL9VD43SL.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0xMC0zMCAwNzo1ODowNS4w
-.. |image46| image:: https://content.instructables.com/FR4/LPRW/L9VD43SL/FR4LPRWL9VD43SL.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Electron Flow Through Diodes| image:: https://content.instructables.com/FLI/0Y0Q/L9VD44TB/FLI0Y0QL9VD44TB.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMi0xMC0zMCAxMTo0OTo1My4w
+.. |image47| image:: assets/2e53e10cfcf4d9a5fe7cbb928eaf5fd607af1e29.png
+.. |Electron Flow Through Diodes| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FLI0Y0QL9VD44TB.png
    :target: https://content.instructables.com/FLI/0Y0Q/L9VD44TB/FLI0Y0QL9VD44TB.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMi0xMC0zMCAxMTo0OTo1My4w
-.. |image47| image:: https://content.instructables.com/FLI/0Y0Q/L9VD44TB/FLI0Y0QL9VD44TB.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |image48| image:: https://content.instructables.com/static/image/file.default.gif
+.. |image48| image:: assets/0d309e8b50ebeddbcff0c0ff2ce797d732aa7d7b.png
+.. |image49| image:: assets/f5ae987c7c7f986ab61cf4c4eeff3b4dc5b94a7e.gif
    :class: tiny-img
-.. |Transitors| image:: https://content.instructables.com/F0Y/1QYI/LKMLGCCK/F0Y1QYILKMLGCCK.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMy0wNy0yOCAwODo0MzoyOS4w
+.. |Transitors| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F0Y1QYILKMLGCCK.png
    :target: https://content.instructables.com/F0Y/1QYI/LKMLGCCK/F0Y1QYILKMLGCCK.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMy0wNy0yOCAwODo0MzoyOS4w
-.. |image49| image:: https://content.instructables.com/F0Y/1QYI/LKMLGCCK/F0Y1QYILKMLGCCK.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Transistors As Switches| image:: https://content.instructables.com/FWF/SZZP/LKMLGG64/FWFSZZPLKMLGG64.png?auto=webp&frame=1&fit=bounds&md=MjAyMy0wNy0yOCAxMjo0NjozNy4w
-   :target: https://content.instructables.com/FWF/SZZP/LKMLGG64/FWFSZZPLKMLGG64.png?auto=webp&frame=1&fit=bounds&md=MjAyMy0wNy0yOCAxMjo0NjozNy4w
-.. |image50| image:: https://content.instructables.com/FWF/SZZP/LKMLGG64/FWFSZZPLKMLGG64.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
-.. |Digital Logic| image:: https://content.instructables.com/FJL/TPMV/LKPGBZTI/FJLTPMVLKPGBZTI.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxMzo0NTo1Ny4w
+.. |image50| image:: assets/f710cc5486095628b8e67ae3c62299ee5ad02c47.png
+.. |Transistors As Switches| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FWFSZZPLKMLGG64.png
+   :target: ./HackerBox%20Basics%20Workshop%20_%2051%20Steps%20-%20Instructables_files/FWFSZZPLKMLGG64.png
+.. |image51| image:: assets/1b0b3f0af135a13c62788a1fd710256de041979e.png
+.. |Digital Logic| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FJLTPMVLKPGBZTI.png
    :target: https://content.instructables.com/FJL/TPMV/LKPGBZTI/FJLTPMVLKPGBZTI.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxMzo0NTo1Ny4w
-.. |image51| image:: https://content.instructables.com/FJL/TPMV/LKPGBZTI/FJLTPMVLKPGBZTI.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Logic Gates From Transistors| image:: https://content.instructables.com/FP9/CCXY/LKPGBZVE/FP9CCXYLKPGBZVE.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxMzo1NDo0OS4w
+.. |image52| image:: assets/e7f2d9375d83a8d9581ef41582b73844839e43bd.png
+.. |Logic Gates From Transistors| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FP9CCXYLKPGBZVE.png
    :target: https://content.instructables.com/FP9/CCXY/LKPGBZVE/FP9CCXYLKPGBZVE.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxMzo1NDo0OS4w
-.. |image52| image:: https://content.instructables.com/FP9/CCXY/LKPGBZVE/FP9CCXYLKPGBZVE.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Integrated Logic Chips| image:: https://content.instructables.com/F77/D7SD/LKPGC03P/F77D7SDLKPGC03P.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMy0wNy0zMCAxNTowMjoyMC4w
+.. |image53| image:: assets/08006b789f132489ee22275520ff37dc60bef8eb.png
+.. |Integrated Logic Chips| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F77D7SDLKPGC03P.png
    :target: https://content.instructables.com/F77/D7SD/LKPGC03P/F77D7SDLKPGC03P.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMy0wNy0zMCAxNTowMjoyMC4w
-.. |image53| image:: https://content.instructables.com/F77/D7SD/LKPGC03P/F77D7SDLKPGC03P.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |XOR Implemented From NAND Gates| image:: https://content.instructables.com/F2G/ND41/LKPGC06E/F2GND41LKPGC06E.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxNToxODoyNC4w
+.. |image54| image:: assets/2018311840b4272bf3cb7363e755fbf6239ea5ee.png
+.. |XOR Implemented From NAND Gates| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F2GND41LKPGC06E.png
    :target: https://content.instructables.com/F2G/ND41/LKPGC06E/F2GND41LKPGC06E.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wNy0zMCAxNToxODoyNC4w
-.. |image54| image:: https://content.instructables.com/F2G/ND41/LKPGC06E/F2GND41LKPGC06E.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Combining Logic Gates| image:: https://content.instructables.com/FUO/4AFY/LKQVRX0W/FUO4AFYLKQVRX0W.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMy0wNy0zMSAwODo1MjozMi4w
+.. |image55| image:: assets/bfa257fbbb4bd662be3fc5147d2138ead8e4bc1a.png
+.. |Combining Logic Gates| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FUO4AFYLKQVRX0W.png
    :target: https://content.instructables.com/FUO/4AFY/LKQVRX0W/FUO4AFYLKQVRX0W.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMy0wNy0zMSAwODo1MjozMi4w
-.. |image55| image:: https://content.instructables.com/FUO/4AFY/LKQVRX0W/FUO4AFYLKQVRX0W.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |Storing Information| image:: https://content.instructables.com/FWH/ZBL7/LKV63DOY/FWHZBL7LKV63DOY.png?auto=webp&frame=1&width=932&fit=bounds&md=MjAyMy0wOC0wMyAxMTo1MDozOC4w
+.. |image56| image:: assets/cbb3a1bc3c8bd07526fd36f7fc1745953c846677.png
+.. |Storing Information| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FWHZBL7LKV63DOY.png
    :target: https://content.instructables.com/FWH/ZBL7/LKV63DOY/FWHZBL7LKV63DOY.png?auto=webp&frame=1&width=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMTo1MDozOC4w
-.. |image56| image:: https://content.instructables.com/FWH/ZBL7/LKV63DOY/FWHZBL7LKV63DOY.png?auto=webp&fit=bounds&frame=1&width=1024auto=webp&frame=1&height=300
-.. |NAND Gate Flip-Flops| image:: https://content.instructables.com/FQK/L58B/LKV63DRS/FQKL58BLKV63DRS.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMTo1MzozOS4w
+.. |image57| image:: assets/003bc88a3b68a63dc86f9079a500a9c5ade36fc2.png
+.. |NAND Gate Flip-Flops| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FQKL58BLKV63DRS.png
    :target: https://content.instructables.com/FQK/L58B/LKV63DRS/FQKL58BLKV63DRS.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMTo1MzozOS4w
-.. |image57| image:: https://content.instructables.com/FQK/L58B/LKV63DRS/FQKL58BLKV63DRS.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |D Flip-Flop Integrated Circuit| image:: https://content.instructables.com/FJR/Q6N0/LKV63E60/FJRQ6N0LKV63E60.png?auto=webp&frame=1&width=931&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMjo0NzowNC4w
+.. |image58| image:: assets/e45b39ea7f098d031fce3994b99dfae23f35068f.png
+.. |D Flip-Flop Integrated Circuit| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FJRQ6N0LKV63E60.png
    :target: https://content.instructables.com/FJR/Q6N0/LKV63E60/FJRQ6N0LKV63E60.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMjo0NzowNC4w
-.. |image58| image:: https://content.instructables.com/FJR/Q6N0/LKV63E60/FJRQ6N0LKV63E60.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Binary Counter| image:: https://content.instructables.com/FYD/8P7F/LKV63E7Z/FYD8P7FLKV63E7Z.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMjo0OTo0OC4w
+.. |image59| image:: assets/b4574cb6e16676355447b75f474120e10c8466b4.png
+.. |Binary Counter| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FYD8P7FLKV63E7Z.png
    :target: https://content.instructables.com/FYD/8P7F/LKV63E7Z/FYD8P7FLKV63E7Z.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wMyAxMjo0OTo0OC4w
-.. |image59| image:: https://content.instructables.com/FYD/8P7F/LKV63E7Z/FYD8P7FLKV63E7Z.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Computer Architecture| image:: https://content.instructables.com/FD6/7JCT/LKWLJ52I/FD67JCTLKWLJ52I.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo0Nzo1Ny4w
+.. |image60| image:: assets/c29ffb81a1e742c67c5d95e42374eb5ebbf246ae.png
+.. |Computer Architecture| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FD67JCTLKWLJ52I.png
    :target: https://content.instructables.com/FD6/7JCT/LKWLJ52I/FD67JCTLKWLJ52I.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo0Nzo1Ny4w
-.. |image60| image:: https://content.instructables.com/FD6/7JCT/LKWLJ52I/FD67JCTLKWLJ52I.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Assembly Language and Machine Code| image:: https://content.instructables.com/FOH/HXWO/LKWLJ54B/FOHHXWOLKWLJ54B.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MDoyMy4w
+.. |image61| image:: assets/3b83b5f9056759912036b743056bfcd17ec81b10.png
+.. |Assembly Language and Machine Code| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FOHHXWOLKWLJ54B.png
    :target: https://content.instructables.com/FOH/HXWO/LKWLJ54B/FOHHXWOLKWLJ54B.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MDoyMy4w
-.. |image61| image:: https://content.instructables.com/FOH/HXWO/LKWLJ54B/FOHHXWOLKWLJ54B.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Instruction Cycle| image:: https://content.instructables.com/FWJ/POKP/LKWLJ56M/FWJPOKPLKWLJ56M.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MToyMC4w
+.. |image62| image:: assets/28ebf78c98854760c43e896fc0429e19122016d5.png
+.. |Instruction Cycle| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FWJPOKPLKWLJ56M.png
    :target: https://content.instructables.com/FWJ/POKP/LKWLJ56M/FWJPOKPLKWLJ56M.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MToyMC4w
-.. |image62| image:: https://content.instructables.com/FWJ/POKP/LKWLJ56M/FWJPOKPLKWLJ56M.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Algorithms and Heuristics| image:: https://content.instructables.com/FUB/DFM3/LKWLJ5A7/FUBDFM3LKWLJ5A7.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MjozNy4w
+.. |image63| image:: assets/b1e551a02962050120c9f017daaa503d5f240a36.png
+.. |Algorithms and Heuristics| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FUBDFM3LKWLJ5A7.png
    :target: https://content.instructables.com/FUB/DFM3/LKWLJ5A7/FUBDFM3LKWLJ5A7.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNCAxMTo1MjozNy4w
-.. |image63| image:: https://content.instructables.com/FUB/DFM3/LKWLJ5A7/FUBDFM3LKWLJ5A7.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Machine Learning| image:: https://content.instructables.com/FKB/EPPN/LKY0YTZT/FKBEPPNLKY0YTZT.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMDo1ODowMi4w
+.. |image64| image:: assets/a19b51c47f0c664fac13c7aee8bac30b71cfe45c.png
+.. |Machine Learning| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FKBEPPNLKY0YTZT.png
    :target: https://content.instructables.com/FKB/EPPN/LKY0YTZT/FKBEPPNLKY0YTZT.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMDo1ODowMi4w
-.. |image64| image:: https://content.instructables.com/FKB/EPPN/LKY0YTZT/FKBEPPNLKY0YTZT.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Artificial Neural Networks| image:: https://content.instructables.com/FQG/AOFN/LKY0YU22/FQGAOFNLKY0YU22.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowMTowNS4w
+.. |image65| image:: assets/4763baad7b70bd083a9a9be2fb37a7e8de1bdcf8.png
+.. |Artificial Neural Networks| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FQGAOFNLKY0YU22.png
    :target: https://content.instructables.com/FQG/AOFN/LKY0YU22/FQGAOFNLKY0YU22.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowMTowNS4w
-.. |image65| image:: https://content.instructables.com/FQG/AOFN/LKY0YU22/FQGAOFNLKY0YU22.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Embedded Neural Networks| image:: https://content.instructables.com/F61/F7OM/LKY0YU45/F61F7OMLKY0YU45.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowMzoyOS4w
+.. |image66| image:: assets/c68a2949343c0c89aaecf849c4e0ecc6f6c598ea.png
+.. |Embedded Neural Networks| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/F61F7OMLKY0YU45.png
    :target: https://content.instructables.com/F61/F7OM/LKY0YU45/F61F7OMLKY0YU45.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowMzoyOS4w
-.. |image66| image:: https://content.instructables.com/F61/F7OM/LKY0YU45/F61F7OMLKY0YU45.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Artificial Intelligence| image:: https://content.instructables.com/FC3/LMKT/LKY0YU9M/FC3LMKTLKY0YU9M.png?auto=webp&frame=1&width=932&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowNjoxMC4w
+.. |image67| image:: assets/bacb67bc969250a7e46e9c6ffae410ef258564c6.png
+.. |Artificial Intelligence| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FC3LMKTLKY0YU9M.png
    :target: https://content.instructables.com/FC3/LMKT/LKY0YU9M/FC3LMKTLKY0YU9M.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=MjAyMy0wOC0wNSAxMTowNjoxMC4w
-.. |image67| image:: https://content.instructables.com/FC3/LMKT/LKY0YU9M/FC3LMKTLKY0YU9M.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=300
-.. |Hack the Planet| image:: https://content.instructables.com/FC6/ND5V/LKY0YUDQ/FC6ND5VLKY0YUDQ.png?auto=webp&frame=1&width=931&fit=bounds&md=MjAyMy0wOC0wNSAxMTowNjoyOS4w
+.. |image68| image:: assets/b3a3b2fd307387e998f133788419730e4587a8df.png
+.. |Hack the Planet| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/FC6ND5VLKY0YUDQ.png
    :target: https://content.instructables.com/FC6/ND5V/LKY0YUDQ/FC6ND5VLKY0YUDQ.png?auto=webp&frame=1&fit=bounds&md=MjAyMy0wOC0wNSAxMTowNjoyOS4w
-.. |image68| image:: https://content.instructables.com/FC6/ND5V/LKY0YUDQ/FC6ND5VLKY0YUDQ.png?auto=webp&fit=bounds&frame=1auto=webp&frame=1&height=300
+.. |image69| image:: assets/d01e72f3d54103c3d3d933d083601b2bf4dc19c4.png
+.. |image70| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/autodesk-logo-blk.svg
+   :width: 123px
+   :height: 20px
+.. |image71| image:: assets/48f762282d82d20bb6ddcd1541dc49a0e5235193.svgz
+   :class: adsk-eprivacy-wd-icon icon-svg-close-thick
+.. |image72| image:: assets/ddf91530877eac398f7d8f3c20ab0fb6e1ca1108.svgz
+   :class: adsk-eprivacy-wd-icon icon-svg-arrow-button
+.. |image73| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/autodesk-logo-blk.svg
+   :width: 123px
+   :height: 20px
+.. |image74| image:: assets/f47e5f51022d3eab12230b45a46baf896a2f7075.svgz
+   :class: adsk-eprivacy-wd-icon icon-svg-close-thick
+.. |image75| image:: assets/6b8f9381304630254cea2e878b9f0170917aad3c.svgz
+   :class: adsk-eprivacy-wd-autodesk-logo
+.. |image76| image:: assets/34c73021a19883b063440bc88fff0ae531772955.svgz
+   :class: adsk-eprivacy-wd-icon icon-svg-arrow-button
+.. |image77| image:: assets/304cc308dae4db0bdb25ccb233650eda19f225f5.svgz
+   :class: adsk-eprivacy-wd-icon icon-svg-arrow-button
+.. |image78| image:: assets/fcd855148c1b9ff3241a0ab75700aeaa2216ff8d.svgz
+.. |image79| image:: assets/HackerBox Basics Workshop _ 51 Steps - Instructables_files/autodesk-logo-blk.svg
+   :width: 123px
+   :height: 20px
+.. |image80| image:: assets/f53101dca068144ab490ff38b36aa6e63845ade6.svgz
+   :class: adsk-eprivacy-wd-icon icon-svg-arrow-button
+.. |image81| image:: assets/f53101dca068144ab490ff38b36aa6e63845ade6.svgz
+   :class: adsk-eprivacy-wd-icon icon-svg-arrow-button
