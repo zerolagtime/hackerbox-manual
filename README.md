@@ -22,7 +22,7 @@ printing costs can be $US45-75 for every vendor we could identify.
 Also included are copies of all the referenced data sheets and my own personal
 double sided electronics cheat sheet, making a release for the first time.
 
-* _[basics_workshop/Hackerbox Basics Workshop v4.pdf](basics_workshop/Hackerbox Basics Workshop v4.pdf)_ - 
+* _[Hackerbox Basics Workshop v4.pdf](Hackerbox Basics Workshop v4.pdf)_ - 
   the main document which ends on page 118, but there's 
   lots more after that if you'd like
 * _[Component Handout.pdf](Component%20Handout.pdf)_ - my personal contribution to the world full of 
