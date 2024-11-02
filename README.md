@@ -22,9 +22,9 @@ printing costs can be $US45-75 for every vendor we could identify.
 Also included are copies of all the referenced data sheets and my own personal
 double sided electronics cheat sheet, making a release for the first time.
 
-* _Hackerbox Basics Workshop v4.pdf_ - the main document which ends on page 118, but there's 
+* basics_workshop/_Hackerbox Basics Workshop v4.pdf_ - the main document which ends on page 118, but there's 
   lots more after that if you'd like
-* _Component Handout.pdf_ - my personal contribution to the world full of 
+* basics_workshop/_Component Handout.pdf_ - my personal contribution to the world full of 
   tricks on reading schematics, the P/I/V/R wheel, tips to remember polarity on an LED/diode,
   how to read 4/5 band resistors, interpreting markings on non-polarized capacitors,
   and a refresher on SI prefixes
